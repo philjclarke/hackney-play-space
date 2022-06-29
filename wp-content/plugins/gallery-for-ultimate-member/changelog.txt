@@ -1,0 +1,48 @@
+= 1.0.0 =
+* Plugin released into the wild
+
+= 1.0.1 =
+* Added Orientation Fix for photo uploaded by iPhone
+* Added option to hide gallery for specific UM role
+
+= 1.0.2 =
+* Fixed fatal error on pro version
+* Fixed popup gallery not position properly
+
+= 1.0.2.1 =
+* Fixed translation issue
+* Updated layout on mobile
+* Minified assets
+* Removed delete button on main tab
+
+= 1.0.2.2 =
+Fixed images always displaying on main tab
+
+= 1.0.3 =
+Added UM 2.0 compatibility
+Moved Settings to sub menu
+Improved file
+
+= 1.0.4 =
+* Added Medium Size Images
+* Added WordPress 4.9.8 compatibilty
+
+= 1.0.5 =
+* Added: Gallery control in admin
+* Added: New Settings like Pro version
+* Added: Added Addons section
+* Added: Option to add Videos
+* Fixed: Images not loading in modal 
+
+= 1.0.5.1 =
+* Fixed: Photos no longer show on main menu.
+
+= 1.0.5.3 =
+* Maintenance: Tested with WordPress 5.2.3 and Ultimate Member 2.1.2
+
+= 1.0.5.4 =
+Fixed: Plugin labels not translating
+* Maintenance: Tested with WordPress 5.4.1
+
+= 1.0.5.5 =
+FIxed: Fatal error after activation

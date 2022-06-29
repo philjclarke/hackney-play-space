@@ -1,0 +1,567 @@
+[25-Apr-2022 16:50:07 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home2/downview/public_html/hackney/wp-includes/update.php on line 175
+[03-May-2022 13:28:54 UTC] PHP Fatal error:  Cannot redeclare um_gallery_pro_admin() (previously declared in /home2/downview/public_html/hackney/wp-content/plugins/gallery-for-ultimate-member/includes/um-gallery-admin.php:1000) in /home2/downview/public_html/hackney/wp-content/plugins/um-gallery-pro/includes/um-gallery-admin.php on line 1427
+[03-May-2022 13:28:57 UTC] PHP Fatal error:  Cannot redeclare um_gallery_pro_admin() (previously declared in /home2/downview/public_html/hackney/wp-content/plugins/gallery-for-ultimate-member/includes/um-gallery-admin.php:1000) in /home2/downview/public_html/hackney/wp-content/plugins/um-gallery-pro/includes/um-gallery-admin.php on line 1427
+[03-May-2022 13:31:27 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`0kx_um_gallery_meta`' at line 1 for query SHOW TABLES LIKE `0kx_um_gallery_meta` made by do_action('um-gallery-pro_page_um_gallery_pro_settings'), WP_Hook->do_action, WP_Hook->apply_filters, UM_GalleryPro_Admin->um_gallery_settings_page, UM_GalleryPro_Admin->load_template, include('/plugins/um-gallery-pro/admin/templates/settings.php'), UM_GalleryPro_Admin->tools_tab, UM_GalleryPro_Admin->load_template, include('/plugins/um-gallery-pro/admin/templates/tools.php')
+[03-May-2022 13:31:35 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`0kx_um_gallery_meta`' at line 1 for query SHOW TABLES LIKE `0kx_um_gallery_meta` made by do_action('um-gallery-pro_page_um_gallery_pro_settings'), WP_Hook->do_action, WP_Hook->apply_filters, UM_GalleryPro_Admin->um_gallery_settings_page, UM_GalleryPro_Admin->load_template, include('/plugins/um-gallery-pro/admin/templates/settings.php'), UM_GalleryPro_Admin->tools_tab, UM_GalleryPro_Admin->load_template, include('/plugins/um-gallery-pro/admin/templates/tools.php')
+[03-May-2022 13:31:35 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`0kx_um_gallery_meta`' at line 1 for query SHOW TABLES LIKE `0kx_um_gallery_meta` made by do_action('um-gallery-pro_page_um_gallery_pro_settings'), WP_Hook->do_action, WP_Hook->apply_filters, UM_GalleryPro_Admin->um_gallery_settings_page, UM_GalleryPro_Admin->load_template, include('/plugins/um-gallery-pro/admin/templates/settings.php'), UM_GalleryPro_Admin->tools_tab, UM_GalleryPro_Admin->load_template, include('/plugins/um-gallery-pro/admin/templates/tools.php')
+[03-May-2022 13:31:35 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`0kx_um_gallery_favorites`' at line 1 for query SHOW TABLES LIKE `0kx_um_gallery_favorites` made by do_action('um-gallery-pro_page_um_gallery_pro_settings'), WP_Hook->do_action, WP_Hook->apply_filters, UM_GalleryPro_Admin->um_gallery_settings_page, UM_GalleryPro_Admin->load_template, include('/plugins/um-gallery-pro/admin/templates/settings.php'), UM_GalleryPro_Admin->tools_tab, UM_GalleryPro_Admin->load_template, include('/plugins/um-gallery-pro/admin/templates/tools.php')
+[03-May-2022 13:55:36 UTC] PHP Warning:  Attempt to read property "file_name" on int in /home2/downview/public_html/hackney/wp-content/plugins/um-gallery-pro/um-gallery-pro.php on line 372
+[03-May-2022 13:55:36 UTC] PHP Warning:  Attempt to read property "file_name" on int in /home2/downview/public_html/hackney/wp-content/plugins/um-gallery-pro/um-gallery-pro.php on line 372
+[03-May-2022 13:56:54 UTC] PHP Warning:  Attempt to read property "file_name" on int in /home2/downview/public_html/hackney/wp-content/plugins/um-gallery-pro/um-gallery-pro.php on line 372
+[03-May-2022 13:56:54 UTC] PHP Warning:  Attempt to read property "file_name" on int in /home2/downview/public_html/hackney/wp-content/plugins/um-gallery-pro/um-gallery-pro.php on line 372
+[03-May-2022 13:58:12 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => akira.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpfoRh3J
+            [error] => 0
+            [size] => 78504
+        )
+
+)
+
+[16-May-2022 20:32:10 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => IMG_20220516_213129.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpbF0slg
+            [error] => 0
+            [size] => 165987
+        )
+
+)
+
+[16-May-2022 20:33:49 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => IMG_20220516_213331.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpQE8v4g
+            [error] => 0
+            [size] => 166768
+        )
+
+)
+
+[16-May-2022 20:35:22 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => IMG_20220516_213508.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpzTarJ2
+            [error] => 0
+            [size] => 163201
+        )
+
+)
+
+[16-May-2022 20:36:25 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => IMG_20220516_213604.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpzLad1z
+            [error] => 0
+            [size] => 166071
+        )
+
+)
+
+[19-May-2022 20:13:33 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => image.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpi5JyeS
+            [error] => 0
+            [size] => 1941504
+        )
+
+)
+
+[19-May-2022 20:13:33 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in /home2/downview/public_html/hackney/wp-includes/functions.php:3003
+Stack trace:
+#0 /home2/downview/public_html/hackney/wp-includes/functions.php(3003): preg_match('!\\.(jpg|jpeg|jp...', Array, NULL)
+#1 /home2/downview/public_html/hackney/wp-includes/media.php(3746): wp_check_filetype(Array)
+#2 /home2/downview/public_html/hackney/wp-content/plugins/um-gallery-pro/includes/um-gallery-functions.php(916): wp_get_image_editor(Array)
+#3 /home2/downview/public_html/hackney/wp-content/plugins/um-gallery-pro/includes/um-gallery-ajax.php(435): um_gallery_fix_image_orientation(Array)
+#4 /home2/downview/public_html/hackney/wp-includes/class-wp-hook.php(307): UM_Gallery_Pro_AJAX->um_gallery_photo_upload('')
+#5 /home2/downview/public_html/hackney/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 /home2/downview/public_html/hackney/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#7 /home2/downview/public_html/hackney/wp-admin/admin-ajax.php(187): do_action('wp_ajax_um_gall...')
+#8 {main}
+  thrown in /home2/downview/public_html/hackney/wp-includes/functions.php on line 3003
+[19-May-2022 20:13:35 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => image.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php2VIPFW
+            [error] => 0
+            [size] => 3149495
+        )
+
+)
+
+[19-May-2022 20:13:35 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in /home2/downview/public_html/hackney/wp-includes/functions.php:3003
+Stack trace:
+#0 /home2/downview/public_html/hackney/wp-includes/functions.php(3003): preg_match('!\\.(jpg|jpeg|jp...', Array, NULL)
+#1 /home2/downview/public_html/hackney/wp-includes/media.php(3746): wp_check_filetype(Array)
+#2 /home2/downview/public_html/hackney/wp-content/plugins/um-gallery-pro/includes/um-gallery-functions.php(916): wp_get_image_editor(Array)
+#3 /home2/downview/public_html/hackney/wp-content/plugins/um-gallery-pro/includes/um-gallery-ajax.php(435): um_gallery_fix_image_orientation(Array)
+#4 /home2/downview/public_html/hackney/wp-includes/class-wp-hook.php(307): UM_Gallery_Pro_AJAX->um_gallery_photo_upload('')
+#5 /home2/downview/public_html/hackney/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 /home2/downview/public_html/hackney/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#7 /home2/downview/public_html/hackney/wp-admin/admin-ajax.php(187): do_action('wp_ajax_um_gall...')
+#8 {main}
+  thrown in /home2/downview/public_html/hackney/wp-includes/functions.php on line 3003
+[19-May-2022 20:17:12 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => image.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phphEe9Te
+            [error] => 0
+            [size] => 3113649
+        )
+
+)
+
+[19-May-2022 20:17:12 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in /home2/downview/public_html/hackney/wp-includes/functions.php:3003
+Stack trace:
+#0 /home2/downview/public_html/hackney/wp-includes/functions.php(3003): preg_match('!\\.(jpg|jpeg|jp...', Array, NULL)
+#1 /home2/downview/public_html/hackney/wp-includes/media.php(3746): wp_check_filetype(Array)
+#2 /home2/downview/public_html/hackney/wp-content/plugins/um-gallery-pro/includes/um-gallery-functions.php(916): wp_get_image_editor(Array)
+#3 /home2/downview/public_html/hackney/wp-content/plugins/um-gallery-pro/includes/um-gallery-ajax.php(435): um_gallery_fix_image_orientation(Array)
+#4 /home2/downview/public_html/hackney/wp-includes/class-wp-hook.php(307): UM_Gallery_Pro_AJAX->um_gallery_photo_upload('')
+#5 /home2/downview/public_html/hackney/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 /home2/downview/public_html/hackney/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#7 /home2/downview/public_html/hackney/wp-admin/admin-ajax.php(187): do_action('wp_ajax_um_gall...')
+#8 {main}
+  thrown in /home2/downview/public_html/hackney/wp-includes/functions.php on line 3003
+[21-May-2022 10:38:09 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => 16A68A93-6F94-4A83-8EDE-ED53685D1B3B.jpeg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phppXokhs
+            [error] => 0
+            [size] => 296837
+        )
+
+)
+
+[21-May-2022 10:40:44 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => E95FCAA5-12A6-45C9-B266-43519E138D9D.jpeg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpQJTD7H
+            [error] => 0
+            [size] => 539385
+        )
+
+)
+
+[26-May-2022 12:52:25 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0010.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpnU4igf
+            [error] => 0
+            [size] => 155769
+        )
+
+)
+
+[26-May-2022 12:52:25 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0003.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpbeXYlf
+            [error] => 0
+            [size] => 177568
+        )
+
+)
+
+[26-May-2022 12:52:25 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0002.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpe1zklf
+            [error] => 0
+            [size] => 207680
+        )
+
+)
+
+[26-May-2022 12:52:26 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0005.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpHFzdrf
+            [error] => 0
+            [size] => 206845
+        )
+
+)
+
+[26-May-2022 12:52:26 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0001.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpTSscvf
+            [error] => 0
+            [size] => 241191
+        )
+
+)
+
+[26-May-2022 12:52:26 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0006.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpYGpmtf
+            [error] => 0
+            [size] => 198903
+        )
+
+)
+
+[26-May-2022 12:52:26 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0009.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php6TUAKf
+            [error] => 0
+            [size] => 198623
+        )
+
+)
+
+[26-May-2022 12:52:26 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0004.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpWcVaRf
+            [error] => 0
+            [size] => 258034
+        )
+
+)
+
+[26-May-2022 12:52:26 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0008.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpi1Os4f
+            [error] => 0
+            [size] => 218500
+        )
+
+)
+
+[26-May-2022 12:52:26 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0012.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpt6Eoag
+            [error] => 0
+            [size] => 229994
+        )
+
+)
+
+[26-May-2022 12:52:26 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0017.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpR86MPh
+            [error] => 0
+            [size] => 179429
+        )
+
+)
+
+[26-May-2022 12:52:26 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0007.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpM6np4f
+            [error] => 0
+            [size] => 225008
+        )
+
+)
+
+[26-May-2022 12:52:26 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0011.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpKx21yg
+            [error] => 0
+            [size] => 295015
+        )
+
+)
+
+[26-May-2022 12:52:27 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0018.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpHsRhfi
+            [error] => 0
+            [size] => 209636
+        )
+
+)
+
+[26-May-2022 12:52:27 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0019.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpnohp3c
+            [error] => 0
+            [size] => 229468
+        )
+
+)
+
+[26-May-2022 12:52:27 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0016.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php5sCiki
+            [error] => 0
+            [size] => 233435
+        )
+
+)
+
+[26-May-2022 12:52:27 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0014.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpCT5Dqi
+            [error] => 0
+            [size] => 200518
+        )
+
+)
+
+[26-May-2022 12:52:27 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0013.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpgdtSte
+            [error] => 0
+            [size] => 315950
+        )
+
+)
+
+[26-May-2022 12:52:27 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0015.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpAZ0osi
+            [error] => 0
+            [size] => 207755
+        )
+
+)
+
+[26-May-2022 12:52:27 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => D106R-MX7500@sns.hackney.sch.uk_20220401_125230_0020.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php2MuXOj
+            [error] => 0
+            [size] => 323590
+        )
+
+)
+
+[26-May-2022 13:00:56 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => LaurieM1.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpsMmh0T
+            [error] => 0
+            [size] => 153314
+        )
+
+)
+
+[26-May-2022 13:00:56 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => LaurieM2.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpeLw6gU
+            [error] => 0
+            [size] => 158319
+        )
+
+)
+
+[26-May-2022 13:00:56 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => LaurieM4.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php60hKoU
+            [error] => 0
+            [size] => 159043
+        )
+
+)
+
+[26-May-2022 13:00:56 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => LaurieM3.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpNp5KMU
+            [error] => 0
+            [size] => 219126
+        )
+
+)
+
+[26-May-2022 13:00:56 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => Luan Vo.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpn1bJVU
+            [error] => 0
+            [size] => 211442
+        )
+
+)
+
+[26-May-2022 13:00:56 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => Reema1.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php5ZekWU
+            [error] => 0
+            [size] => 181089
+        )
+
+)
+
+[26-May-2022 13:00:56 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => untitled-5_orig.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php1M1oyV
+            [error] => 0
+            [size] => 216953
+        )
+
+)
+
+[26-May-2022 13:01:01 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => RyanH2.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpFoIvt7
+            [error] => 0
+            [size] => 3173719
+        )
+
+)
+
+[26-May-2022 13:01:01 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => Taiwo Akerele.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php83uSY7
+            [error] => 0
+            [size] => 1407212
+        )
+
+)
+
+[26-May-2022 13:01:12 UTC] 896 Array
+(
+    [file] => Array
+        (
+            [name] => RyanH.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpMGuk4z
+            [error] => 0
+            [size] => 10997958
+        )
+
+)
+

@@ -1,0 +1,2614 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Gallery Lite for Ultimate Member\n"
+"POT-Creation-Date: 2019-09-11 23:41-0400\n"
+"PO-Revision-Date: 2019-09-11 23:42-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: gallery-for-ultimate-member.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+
+#: admin/templates/addons.php:4 release/1.0.5.1/admin/templates/addons.php:4
+#: release/1.0.5.2/admin/templates/addons.php:4
+#: release/svn/admin/templates/addons.php:4
+msgid "Activity Wall"
+msgstr "Activity Wall"
+
+#: admin/templates/addons.php:5 release/1.0.5.1/admin/templates/addons.php:5
+#: release/1.0.5.2/admin/templates/addons.php:5
+#: release/svn/admin/templates/addons.php:5
+msgid "Enable the ability to add to post new albums to wall"
+msgstr "Enable the ability to add to post new albums to wall"
+
+#: admin/templates/addons.php:11 includes/um-gallery-admin.php:354
+#: includes/um-gallery-admin.php:355
+#: release/1.0.5.1/admin/templates/addons.php:11
+#: release/1.0.5.1/includes/um-gallery-admin.php:354
+#: release/1.0.5.1/includes/um-gallery-admin.php:355
+#: release/1.0.5.2/admin/templates/addons.php:11
+#: release/1.0.5.2/includes/um-gallery-admin.php:354
+#: release/1.0.5.2/includes/um-gallery-admin.php:355
+#: release/svn/admin/templates/addons.php:11
+#: release/svn/includes/um-gallery-admin.php:354
+#: release/svn/includes/um-gallery-admin.php:355
+msgid "Categories"
+msgstr "Categories"
+
+#: admin/templates/addons.php:12 release/1.0.5.1/admin/templates/addons.php:12
+#: release/1.0.5.2/admin/templates/addons.php:12
+#: release/svn/admin/templates/addons.php:12
+msgid "Enable the ability to organize media items by category"
+msgstr "Enable the ability to organize media items by category"
+
+#: admin/templates/addons.php:18 release/1.0.5.1/admin/templates/addons.php:18
+#: release/1.0.5.2/admin/templates/addons.php:18
+#: release/svn/admin/templates/addons.php:18
+msgid "Comments"
+msgstr "Comments"
+
+#: admin/templates/addons.php:19 release/1.0.5.1/admin/templates/addons.php:19
+#: release/1.0.5.2/admin/templates/addons.php:19
+#: release/svn/admin/templates/addons.php:19
+msgid "Enable the ability to add Comment to gallery"
+msgstr "Enable the ability to add Comment to gallery"
+
+#: admin/templates/addons.php:25 release/1.0.5.1/admin/templates/addons.php:25
+#: release/1.0.5.2/admin/templates/addons.php:25
+#: release/svn/admin/templates/addons.php:25
+msgid "Ratings"
+msgstr "Ratings"
+
+#: admin/templates/addons.php:26 release/1.0.5.1/admin/templates/addons.php:26
+#: release/1.0.5.2/admin/templates/addons.php:26
+#: release/svn/admin/templates/addons.php:26
+msgid "Enable the ability to rate photos"
+msgstr "Enable the ability to rate photos"
+
+#: admin/templates/addons.php:32 release/1.0.5.1/admin/templates/addons.php:32
+#: release/1.0.5.2/admin/templates/addons.php:32
+#: release/svn/admin/templates/addons.php:32
+msgid "Privacy"
+msgstr "Privacy"
+
+#: admin/templates/addons.php:33 release/1.0.5.1/admin/templates/addons.php:33
+#: release/1.0.5.2/admin/templates/addons.php:33
+#: release/svn/admin/templates/addons.php:33
+msgid "Enable the ability to set media privacy"
+msgstr "Enable the ability to set media privacy"
+
+#: admin/templates/addons.php:39 admin/templates/gallery-view.php:122
+#: assets/tmpl/media.php:86 includes/um-gallery-admin.php:364
+#: includes/um-gallery-admin.php:365
+#: release/1.0.5.1/admin/templates/addons.php:39
+#: release/1.0.5.1/admin/templates/gallery-view.php:122
+#: release/1.0.5.1/assets/tmpl/media.php:86
+#: release/1.0.5.1/includes/um-gallery-admin.php:364
+#: release/1.0.5.1/includes/um-gallery-admin.php:365
+#: release/1.0.5.2/admin/templates/addons.php:39
+#: release/1.0.5.2/admin/templates/gallery-view.php:122
+#: release/1.0.5.2/assets/tmpl/media.php:86
+#: release/1.0.5.2/includes/um-gallery-admin.php:364
+#: release/1.0.5.2/includes/um-gallery-admin.php:365
+#: release/svn/admin/templates/addons.php:39
+#: release/svn/admin/templates/gallery-view.php:122
+#: release/svn/assets/tmpl/media.php:86
+#: release/svn/includes/um-gallery-admin.php:364
+#: release/svn/includes/um-gallery-admin.php:365
+msgid "Tags"
+msgstr "Tags"
+
+#: admin/templates/addons.php:40 release/1.0.5.1/admin/templates/addons.php:40
+#: release/1.0.5.2/admin/templates/addons.php:40
+#: release/svn/admin/templates/addons.php:40
+msgid "Enable the ability to use tags on media items"
+msgstr "Enable the ability to use tags on media items"
+
+#: admin/templates/addons.php:46 release/1.0.5.1/admin/templates/addons.php:46
+#: release/1.0.5.2/admin/templates/addons.php:46
+#: release/svn/admin/templates/addons.php:46
+msgid "Videos"
+msgstr "Videos"
+
+#: admin/templates/addons.php:47 release/1.0.5.1/admin/templates/addons.php:47
+#: release/1.0.5.2/admin/templates/addons.php:47
+#: release/svn/admin/templates/addons.php:47
+msgid "Enable the ability to add YouTube videos through the gallery"
+msgstr "Enable the ability to add YouTube videos through the gallery"
+
+#: admin/templates/addons.php:63 release/1.0.5.1/admin/templates/addons.php:63
+#: release/1.0.5.2/admin/templates/addons.php:63
+#: release/svn/admin/templates/addons.php:63
+msgid "Enable"
+msgstr "Enable"
+
+#: admin/templates/addons.php:66 release/1.0.5.1/admin/templates/addons.php:66
+#: release/1.0.5.2/admin/templates/addons.php:66
+#: release/svn/admin/templates/addons.php:66
+msgid "Disable"
+msgstr "Disable"
+
+#: admin/templates/addons.php:70 release/1.0.5.1/admin/templates/addons.php:70
+#: release/1.0.5.2/admin/templates/addons.php:70
+#: release/svn/admin/templates/addons.php:70
+msgid "To be developed"
+msgstr "To be developed"
+
+#: admin/templates/addons.php:73 includes/um-gallery-admin.php:60
+#: release/1.0.5.1/admin/templates/addons.php:73
+#: release/1.0.5.1/includes/um-gallery-admin.php:60
+#: release/1.0.5.2/admin/templates/addons.php:73
+#: release/1.0.5.2/includes/um-gallery-admin.php:60
+#: release/svn/admin/templates/addons.php:73
+#: release/svn/includes/um-gallery-admin.php:60
+msgid "UM Gallery Pro"
+msgstr "UM Gallery Pro"
+
+#: admin/templates/addons.php:83 release/1.0.5.1/admin/templates/addons.php:83
+#: release/1.0.5.2/admin/templates/addons.php:83
+#: release/svn/admin/templates/addons.php:83
+msgid "Upgrade to UM Gallery Pro"
+msgstr "Upgrade to UM Gallery Pro"
+
+#: admin/templates/addons.php:84 release/1.0.5.1/admin/templates/addons.php:84
+#: release/1.0.5.2/admin/templates/addons.php:84
+#: release/svn/admin/templates/addons.php:84
+#, php-format
+msgid ""
+"Ready for more features? Use coupon code <strong>WPUPGRADE</strong> <a href="
+"\"https://suiteplugins.com/downloads/gallery-for-ultimate-members/?"
+"utm_source=wordpress&utm_medium=upgrade\">here</a> to get 25% off UM Gallery "
+"Pro"
+msgstr ""
+"Ready for more features? Use coupon code <strong>WPUPGRADE</strong> <a href="
+"\"https://suiteplugins.com/downloads/gallery-for-ultimate-members/?"
+"utm_source=wordpress&utm_medium=upgrade\">here</a> to get 25% off UM Gallery "
+"Pro"
+
+#: admin/templates/gallery-view.php:3
+#: release/1.0.5.1/admin/templates/gallery-view.php:3
+#: release/1.0.5.2/admin/templates/gallery-view.php:3
+#: release/svn/admin/templates/gallery-view.php:3
+msgid "No album selected. Go back and try again"
+msgstr "No album selected. Go back and try again"
+
+#: admin/templates/gallery-view.php:16
+#: release/1.0.5.1/admin/templates/gallery-view.php:16
+#: release/1.0.5.2/admin/templates/gallery-view.php:16
+#: release/svn/admin/templates/gallery-view.php:16
+msgid "Edit Album"
+msgstr "Edit Album"
+
+#: admin/templates/gallery-view.php:105 assets/tmpl/media.php:69
+#: release/1.0.5.1/admin/templates/gallery-view.php:105
+#: release/1.0.5.1/assets/tmpl/media.php:69
+#: release/1.0.5.2/admin/templates/gallery-view.php:105
+#: release/1.0.5.2/assets/tmpl/media.php:69
+#: release/svn/admin/templates/gallery-view.php:105
+#: release/svn/assets/tmpl/media.php:69
+msgid "Caption"
+msgstr "Caption"
+
+#: admin/templates/gallery-view.php:112 assets/tmpl/media.php:76
+#: release/1.0.5.1/admin/templates/gallery-view.php:112
+#: release/1.0.5.1/assets/tmpl/media.php:76
+#: release/1.0.5.2/admin/templates/gallery-view.php:112
+#: release/1.0.5.2/assets/tmpl/media.php:76
+#: release/svn/admin/templates/gallery-view.php:112
+#: release/svn/assets/tmpl/media.php:76
+msgid "Category"
+msgstr "Category"
+
+#: admin/templates/gallery-view.php:130
+#: release/1.0.5.1/admin/templates/gallery-view.php:130
+#: release/1.0.5.2/admin/templates/gallery-view.php:130
+#: release/svn/admin/templates/gallery-view.php:130
+msgid "Update"
+msgstr "Update"
+
+#: admin/templates/list-head.php:2 includes/class-um-gallery-template.php:247
+#: includes/um-gallery-admin-list.php:17 includes/um-gallery-admin.php:344
+#: includes/um-gallery-admin.php:345
+#: release/1.0.5.1/admin/templates/list-head.php:2
+#: release/1.0.5.1/includes/class-um-gallery-template.php:247
+#: release/1.0.5.1/includes/um-gallery-admin-list.php:17
+#: release/1.0.5.1/includes/um-gallery-admin.php:344
+#: release/1.0.5.1/includes/um-gallery-admin.php:345
+#: release/1.0.5.2/admin/templates/list-head.php:2
+#: release/1.0.5.2/includes/class-um-gallery-template.php:247
+#: release/1.0.5.2/includes/um-gallery-admin-list.php:17
+#: release/1.0.5.2/includes/um-gallery-admin.php:344
+#: release/1.0.5.2/includes/um-gallery-admin.php:345
+#: release/svn/admin/templates/list-head.php:2
+#: release/svn/includes/class-um-gallery-template.php:247
+#: release/svn/includes/um-gallery-admin-list.php:17
+#: release/svn/includes/um-gallery-admin.php:344
+#: release/svn/includes/um-gallery-admin.php:345
+msgid "Albums"
+msgstr "Albums"
+
+#: admin/templates/list-head.php:11
+#: release/1.0.5.1/admin/templates/list-head.php:11
+#: release/1.0.5.2/admin/templates/list-head.php:11
+#: release/svn/admin/templates/list-head.php:11
+msgid "-Select user-"
+msgstr "-Select user-"
+
+#: admin/templates/settings.php:6
+#: release/1.0.5.1/admin/templates/settings.php:6
+#: release/1.0.5.2/admin/templates/settings.php:6
+#: release/svn/admin/templates/settings.php:6
+msgid "Update License"
+msgstr "Update License"
+
+#: admin/templates/tools.php:96 release/1.0.5.1/admin/templates/tools.php:96
+#: release/1.0.5.2/admin/templates/tools.php:96
+#: release/svn/admin/templates/tools.php:96
+msgid "Fixes have been applied"
+msgstr "Fixes have been applied"
+
+#: admin/templates/tools.php:107 release/1.0.5.1/admin/templates/tools.php:107
+#: release/1.0.5.2/admin/templates/tools.php:107
+#: release/svn/admin/templates/tools.php:107
+msgid "Overview"
+msgstr "Overview"
+
+#: admin/templates/tools.php:108 release/1.0.5.1/admin/templates/tools.php:108
+#: release/1.0.5.2/admin/templates/tools.php:108
+#: release/svn/admin/templates/tools.php:108
+msgid "UM Gallery Pro Version:"
+msgstr "UM Gallery Pro Version:"
+
+#: admin/templates/tools.php:109 release/1.0.5.1/admin/templates/tools.php:109
+#: release/1.0.5.2/admin/templates/tools.php:109
+#: release/svn/admin/templates/tools.php:109
+msgid "Albums:"
+msgstr "Albums:"
+
+#: admin/templates/tools.php:110 release/1.0.5.1/admin/templates/tools.php:110
+#: release/1.0.5.2/admin/templates/tools.php:110
+#: release/svn/admin/templates/tools.php:110
+msgid "Photos:"
+msgstr "Photos:"
+
+#: admin/templates/tools.php:111 release/1.0.5.1/admin/templates/tools.php:111
+#: release/1.0.5.2/admin/templates/tools.php:111
+#: release/svn/admin/templates/tools.php:111
+msgid "Users:"
+msgstr "Users:"
+
+#: admin/templates/tools.php:112 release/1.0.5.1/admin/templates/tools.php:112
+#: release/1.0.5.2/admin/templates/tools.php:112
+#: release/svn/admin/templates/tools.php:112
+msgid "Database Ok?:"
+msgstr "Database Ok?:"
+
+#: admin/templates/tools.php:112 release/1.0.5.1/admin/templates/tools.php:112
+#: release/1.0.5.2/admin/templates/tools.php:112
+#: release/svn/admin/templates/tools.php:112
+msgid "No ( Click Database Repair )"
+msgstr "No ( Click Database Repair )"
+
+#: admin/templates/tools.php:112 includes/class-um-gallery-template.php:294
+#: includes/um-gallery-admin.php:570 includes/um-gallery-admin.php:582
+#: includes/um-gallery-admin.php:724 includes/um-gallery-admin.php:778
+#: includes/um-gallery-admin.php:790 includes/um-gallery-admin.php:801
+#: includes/um-gallery-admin.php:819 includes/um-gallery-admin.php:831
+#: release/1.0.5.1/admin/templates/tools.php:112
+#: release/1.0.5.1/includes/class-um-gallery-template.php:294
+#: release/1.0.5.1/includes/um-gallery-admin.php:570
+#: release/1.0.5.1/includes/um-gallery-admin.php:582
+#: release/1.0.5.1/includes/um-gallery-admin.php:724
+#: release/1.0.5.1/includes/um-gallery-admin.php:778
+#: release/1.0.5.1/includes/um-gallery-admin.php:790
+#: release/1.0.5.1/includes/um-gallery-admin.php:801
+#: release/1.0.5.1/includes/um-gallery-admin.php:819
+#: release/1.0.5.1/includes/um-gallery-admin.php:831
+#: release/1.0.5.2/admin/templates/tools.php:112
+#: release/1.0.5.2/includes/class-um-gallery-template.php:294
+#: release/1.0.5.2/includes/um-gallery-admin.php:570
+#: release/1.0.5.2/includes/um-gallery-admin.php:582
+#: release/1.0.5.2/includes/um-gallery-admin.php:724
+#: release/1.0.5.2/includes/um-gallery-admin.php:778
+#: release/1.0.5.2/includes/um-gallery-admin.php:790
+#: release/1.0.5.2/includes/um-gallery-admin.php:801
+#: release/1.0.5.2/includes/um-gallery-admin.php:819
+#: release/1.0.5.2/includes/um-gallery-admin.php:831
+#: release/svn/admin/templates/tools.php:112
+#: release/svn/includes/class-um-gallery-template.php:294
+#: release/svn/includes/um-gallery-admin.php:570
+#: release/svn/includes/um-gallery-admin.php:582
+#: release/svn/includes/um-gallery-admin.php:724
+#: release/svn/includes/um-gallery-admin.php:778
+#: release/svn/includes/um-gallery-admin.php:790
+#: release/svn/includes/um-gallery-admin.php:801
+#: release/svn/includes/um-gallery-admin.php:819
+#: release/svn/includes/um-gallery-admin.php:831
+msgid "Yes"
+msgstr "Yes"
+
+#: admin/templates/tools.php:117 release/1.0.5.1/admin/templates/tools.php:117
+#: release/1.0.5.2/admin/templates/tools.php:117
+#: release/svn/admin/templates/tools.php:117
+msgid "Database"
+msgstr "Database"
+
+#: admin/templates/tools.php:120 release/1.0.5.1/admin/templates/tools.php:120
+#: release/1.0.5.2/admin/templates/tools.php:120
+#: release/svn/admin/templates/tools.php:120
+msgid "Database Repair"
+msgstr "Database Repair"
+
+#: admin/templates/tools.php:126 release/1.0.5.1/admin/templates/tools.php:126
+#: release/1.0.5.2/admin/templates/tools.php:126
+#: release/svn/admin/templates/tools.php:126
+msgid "Delete Data"
+msgstr "Delete Data"
+
+#: admin/templates/tools.php:129 release/1.0.5.1/admin/templates/tools.php:129
+#: release/1.0.5.2/admin/templates/tools.php:129
+#: release/svn/admin/templates/tools.php:129
+msgid "Option to delete all albums and images"
+msgstr "Option to delete all albums and images"
+
+#: assets/tmpl/media.php:98 gallery-for-ultimate-member.php:289
+#: gallery-for-ultimate-member.php:326 includes/um-gallery-admin.php:466
+#: includes/um-gallery-admin.php:682 release/1.0.5.1/assets/tmpl/media.php:98
+#: release/1.0.5.1/gallery-for-ultimate-member.php:292
+#: release/1.0.5.1/gallery-for-ultimate-member.php:329
+#: release/1.0.5.1/includes/um-gallery-admin.php:466
+#: release/1.0.5.1/includes/um-gallery-admin.php:682
+#: release/1.0.5.1/templates/um-gallery/manage/album-form.php:87
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/helper-functions.php:307
+#: release/1.0.5.2/assets/tmpl/media.php:98
+#: release/1.0.5.2/gallery-for-ultimate-member.php:289
+#: release/1.0.5.2/gallery-for-ultimate-member.php:326
+#: release/1.0.5.2/includes/um-gallery-admin.php:466
+#: release/1.0.5.2/includes/um-gallery-admin.php:682
+#: release/1.0.5.2/templates/um-gallery/manage/album-form.php:87
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/helper-functions.php:307
+#: release/svn/assets/tmpl/media.php:98
+#: release/svn/gallery-for-ultimate-member.php:289
+#: release/svn/gallery-for-ultimate-member.php:326
+#: release/svn/includes/um-gallery-admin.php:466
+#: release/svn/includes/um-gallery-admin.php:682
+#: release/svn/templates/um-gallery/manage/album-form.php:87
+#: release/svn/vendor/cmb2/cmb2/includes/helper-functions.php:307
+#: templates/um-gallery/manage/album-form.php:87
+msgid "Save"
+msgstr "Save"
+
+#: assets/tmpl/media.php:99 gallery-for-ultimate-member.php:291
+#: includes/um-gallery-admin.php:468 includes/um-gallery-admin.php:690
+#: release/1.0.5.1/assets/tmpl/media.php:99
+#: release/1.0.5.1/gallery-for-ultimate-member.php:294
+#: release/1.0.5.1/includes/um-gallery-admin.php:468
+#: release/1.0.5.1/includes/um-gallery-admin.php:690
+#: release/1.0.5.1/templates/um-gallery/manage/album-form.php:88
+#: release/1.0.5.2/assets/tmpl/media.php:99
+#: release/1.0.5.2/gallery-for-ultimate-member.php:291
+#: release/1.0.5.2/includes/um-gallery-admin.php:468
+#: release/1.0.5.2/includes/um-gallery-admin.php:690
+#: release/1.0.5.2/templates/um-gallery/manage/album-form.php:88
+#: release/svn/assets/tmpl/media.php:99
+#: release/svn/gallery-for-ultimate-member.php:291
+#: release/svn/includes/um-gallery-admin.php:468
+#: release/svn/includes/um-gallery-admin.php:690
+#: release/svn/templates/um-gallery/manage/album-form.php:88
+#: templates/um-gallery/manage/album-form.php:88
+msgid "Cancel"
+msgstr "Cancel"
+
+#: assets/tmpl/media.php:103 release/1.0.5.1/assets/tmpl/media.php:103
+#: release/1.0.5.2/assets/tmpl/media.php:103
+#: release/svn/assets/tmpl/media.php:103
+msgid "<i class=\"um-faicon-pencil\"></i> Edit"
+msgstr "<i class=\"um-faicon-pencil\"></i> Edit"
+
+#: gallery-for-ultimate-member.php:290 includes/um-gallery-admin.php:467
+#: release/1.0.5.1/gallery-for-ultimate-member.php:293
+#: release/1.0.5.1/includes/um-gallery-admin.php:467
+#: release/1.0.5.2/gallery-for-ultimate-member.php:290
+#: release/1.0.5.2/includes/um-gallery-admin.php:467
+#: release/svn/gallery-for-ultimate-member.php:290
+#: release/svn/includes/um-gallery-admin.php:467
+msgid "<i class=\"um-faicon-pencil\"></i> Edit Caption"
+msgstr "<i class=\"um-faicon-pencil\"></i> Edit Caption"
+
+#: gallery-for-ultimate-member.php:294 includes/um-gallery-admin.php:471
+#: includes/um-gallery-admin.php:658
+#: release/1.0.5.1/gallery-for-ultimate-member.php:297
+#: release/1.0.5.1/includes/um-gallery-admin.php:471
+#: release/1.0.5.1/includes/um-gallery-admin.php:658
+#: release/1.0.5.2/gallery-for-ultimate-member.php:294
+#: release/1.0.5.2/includes/um-gallery-admin.php:471
+#: release/1.0.5.2/includes/um-gallery-admin.php:658
+#: release/svn/gallery-for-ultimate-member.php:294
+#: release/svn/includes/um-gallery-admin.php:471
+#: release/svn/includes/um-gallery-admin.php:658
+msgid "Upload your photos"
+msgstr "Upload your photos"
+
+#: gallery-for-ultimate-member.php:295 includes/um-gallery-admin.php:472
+#: release/1.0.5.1/gallery-for-ultimate-member.php:298
+#: release/1.0.5.1/includes/um-gallery-admin.php:472
+#: release/1.0.5.2/gallery-for-ultimate-member.php:295
+#: release/1.0.5.2/includes/um-gallery-admin.php:472
+#: release/svn/gallery-for-ultimate-member.php:295
+#: release/svn/includes/um-gallery-admin.php:472
+msgid "Upload Complete"
+msgstr "Upload Complete"
+
+#: gallery-for-ultimate-member.php:296 includes/um-gallery-admin.php:473
+#: release/1.0.5.1/gallery-for-ultimate-member.php:299
+#: release/1.0.5.1/includes/um-gallery-admin.php:473
+#: release/1.0.5.2/gallery-for-ultimate-member.php:296
+#: release/1.0.5.2/includes/um-gallery-admin.php:473
+#: release/svn/gallery-for-ultimate-member.php:296
+#: release/svn/includes/um-gallery-admin.php:473
+msgid "No photos found."
+msgstr "No photos found."
+
+#: gallery-for-ultimate-member.php:297 includes/um-gallery-admin.php:474
+#: release/1.0.5.1/gallery-for-ultimate-member.php:300
+#: release/1.0.5.1/includes/um-gallery-admin.php:474
+#: release/1.0.5.2/gallery-for-ultimate-member.php:297
+#: release/1.0.5.2/includes/um-gallery-admin.php:474
+#: release/svn/gallery-for-ultimate-member.php:297
+#: release/svn/includes/um-gallery-admin.php:474
+msgid "Are you sure you want to delete this?"
+msgstr "Are you sure you want to delete this?"
+
+#: gallery-for-ultimate-member.php:316
+#: release/1.0.5.1/gallery-for-ultimate-member.php:319
+#: release/1.0.5.2/gallery-for-ultimate-member.php:316
+#: release/svn/gallery-for-ultimate-member.php:316
+msgid "Add a comment"
+msgstr "Add a comment"
+
+#: gallery-for-ultimate-member.php:317
+#: release/1.0.5.1/gallery-for-ultimate-member.php:320
+#: release/1.0.5.2/gallery-for-ultimate-member.php:317
+#: release/svn/gallery-for-ultimate-member.php:317
+msgid "Newest"
+msgstr "Newest"
+
+#: gallery-for-ultimate-member.php:318
+#: release/1.0.5.1/gallery-for-ultimate-member.php:321
+#: release/1.0.5.2/gallery-for-ultimate-member.php:318
+#: release/svn/gallery-for-ultimate-member.php:318
+msgid "Oldest"
+msgstr "Oldest"
+
+#: gallery-for-ultimate-member.php:319
+#: release/1.0.5.1/gallery-for-ultimate-member.php:322
+#: release/1.0.5.2/gallery-for-ultimate-member.php:319
+#: release/svn/gallery-for-ultimate-member.php:319
+msgid "Popular"
+msgstr "Popular"
+
+#: gallery-for-ultimate-member.php:320
+#: release/1.0.5.1/gallery-for-ultimate-member.php:323
+#: release/1.0.5.2/gallery-for-ultimate-member.php:320
+#: release/svn/gallery-for-ultimate-member.php:320
+msgid "Attachments"
+msgstr "Attachments"
+
+#: gallery-for-ultimate-member.php:321
+#: release/1.0.5.1/gallery-for-ultimate-member.php:324
+#: release/1.0.5.2/gallery-for-ultimate-member.php:321
+#: release/svn/gallery-for-ultimate-member.php:321
+msgid "Send"
+msgstr "Send"
+
+#: gallery-for-ultimate-member.php:322
+#: release/1.0.5.1/gallery-for-ultimate-member.php:325
+#: release/1.0.5.2/gallery-for-ultimate-member.php:322
+#: release/svn/gallery-for-ultimate-member.php:322
+msgid "Reply"
+msgstr "Reply"
+
+#: gallery-for-ultimate-member.php:323 includes/um-gallery-admin-list.php:145
+#: release/1.0.5.1/gallery-for-ultimate-member.php:326
+#: release/1.0.5.1/includes/um-gallery-admin-list.php:145
+#: release/1.0.5.2/gallery-for-ultimate-member.php:323
+#: release/1.0.5.2/includes/um-gallery-admin-list.php:145
+#: release/svn/gallery-for-ultimate-member.php:323
+#: release/svn/includes/um-gallery-admin-list.php:145
+msgid "Edit"
+msgstr "Edit"
+
+#: gallery-for-ultimate-member.php:324
+#: release/1.0.5.1/gallery-for-ultimate-member.php:327
+#: release/1.0.5.2/gallery-for-ultimate-member.php:324
+#: release/svn/gallery-for-ultimate-member.php:324
+msgid "Edited"
+msgstr "Edited"
+
+#: gallery-for-ultimate-member.php:325
+#: release/1.0.5.1/gallery-for-ultimate-member.php:328
+#: release/1.0.5.2/gallery-for-ultimate-member.php:325
+#: release/svn/gallery-for-ultimate-member.php:325
+msgid "You"
+msgstr "You"
+
+#: gallery-for-ultimate-member.php:327 includes/um-gallery-admin-list.php:146
+#: includes/um-gallery-admin-list.php:217
+#: release/1.0.5.1/gallery-for-ultimate-member.php:330
+#: release/1.0.5.1/includes/um-gallery-admin-list.php:146
+#: release/1.0.5.1/includes/um-gallery-admin-list.php:217
+#: release/1.0.5.2/gallery-for-ultimate-member.php:327
+#: release/1.0.5.2/includes/um-gallery-admin-list.php:146
+#: release/1.0.5.2/includes/um-gallery-admin-list.php:217
+#: release/svn/gallery-for-ultimate-member.php:327
+#: release/svn/includes/um-gallery-admin-list.php:146
+#: release/svn/includes/um-gallery-admin-list.php:217
+msgid "Delete"
+msgstr "Delete"
+
+#: gallery-for-ultimate-member.php:328
+#: release/1.0.5.1/gallery-for-ultimate-member.php:331
+#: release/1.0.5.2/gallery-for-ultimate-member.php:328
+#: release/svn/gallery-for-ultimate-member.php:328
+msgid "View all __replyCount__ replies"
+msgstr "View all __replyCount__ replies"
+
+#: gallery-for-ultimate-member.php:329
+#: release/1.0.5.1/gallery-for-ultimate-member.php:332
+#: release/1.0.5.2/gallery-for-ultimate-member.php:329
+#: release/svn/gallery-for-ultimate-member.php:329
+msgid "Hide replies"
+msgstr "Hide replies"
+
+#: gallery-for-ultimate-member.php:330
+#: release/1.0.5.1/gallery-for-ultimate-member.php:333
+#: release/1.0.5.2/gallery-for-ultimate-member.php:330
+#: release/svn/gallery-for-ultimate-member.php:330
+msgid "No comments"
+msgstr "No comments"
+
+#: gallery-for-ultimate-member.php:331
+#: release/1.0.5.1/gallery-for-ultimate-member.php:334
+#: release/1.0.5.2/gallery-for-ultimate-member.php:331
+#: release/svn/gallery-for-ultimate-member.php:331
+msgid "No attachments"
+msgstr "No attachments"
+
+#: gallery-for-ultimate-member.php:332
+#: release/1.0.5.1/gallery-for-ultimate-member.php:335
+#: release/1.0.5.2/gallery-for-ultimate-member.php:332
+#: release/svn/gallery-for-ultimate-member.php:332
+msgid "Drop files here"
+msgstr "Drop files here"
+
+#: includes/class-um-gallery-template.php:79 includes/um-gallery-admin.php:602
+#: release/1.0.5.1/includes/class-um-gallery-template.php:79
+#: release/1.0.5.1/includes/um-gallery-admin.php:602
+#: release/1.0.5.2/includes/class-um-gallery-template.php:79
+#: release/1.0.5.2/includes/um-gallery-admin.php:602
+#: release/svn/includes/class-um-gallery-template.php:79
+#: release/svn/includes/um-gallery-admin.php:602
+msgid "Gallery"
+msgstr "Gallery"
+
+#: includes/class-um-gallery-template.php:166 includes/um-gallery-admin.php:626
+#: release/1.0.5.1/includes/class-um-gallery-template.php:166
+#: release/1.0.5.1/includes/um-gallery-admin.php:626
+#: release/1.0.5.2/includes/class-um-gallery-template.php:166
+#: release/1.0.5.2/includes/um-gallery-admin.php:626
+#: release/svn/includes/class-um-gallery-template.php:166
+#: release/svn/includes/um-gallery-admin.php:626
+msgid "Add Photo"
+msgstr "Add Photo"
+
+#: includes/class-um-gallery-template.php:212
+#: release/1.0.5.1/includes/class-um-gallery-template.php:212
+#: release/1.0.5.2/includes/class-um-gallery-template.php:212
+#: release/svn/includes/class-um-gallery-template.php:212
+msgid "Back to Albums"
+msgstr "Back to Albums"
+
+#: includes/class-um-gallery-template.php:215 includes/um-gallery-admin.php:634
+#: release/1.0.5.1/includes/class-um-gallery-template.php:215
+#: release/1.0.5.1/includes/um-gallery-admin.php:634
+#: release/1.0.5.1/templates/um-gallery/manage/album-form.php:7
+#: release/1.0.5.2/includes/class-um-gallery-template.php:215
+#: release/1.0.5.2/includes/um-gallery-admin.php:634
+#: release/1.0.5.2/templates/um-gallery/manage/album-form.php:7
+#: release/svn/includes/class-um-gallery-template.php:215
+#: release/svn/includes/um-gallery-admin.php:634
+#: release/svn/templates/um-gallery/manage/album-form.php:7
+#: templates/um-gallery/manage/album-form.php:7
+msgid "Manage Album"
+msgstr "Manage Album"
+
+#: includes/class-um-gallery-template.php:249
+#: release/1.0.5.1/includes/class-um-gallery-template.php:249
+#: release/1.0.5.2/includes/class-um-gallery-template.php:249
+#: release/svn/includes/class-um-gallery-template.php:249
+msgid "Add Album"
+msgstr "Add Album"
+
+#: includes/class-um-gallery-template.php:285
+#: release/1.0.5.1/includes/class-um-gallery-template.php:285
+#: release/1.0.5.2/includes/class-um-gallery-template.php:285
+#: release/svn/includes/class-um-gallery-template.php:285
+msgid "Hide gallery"
+msgstr "Hide gallery"
+
+#: includes/class-um-gallery-template.php:288
+#: release/1.0.5.1/includes/class-um-gallery-template.php:288
+#: release/1.0.5.2/includes/class-um-gallery-template.php:288
+#: release/svn/includes/class-um-gallery-template.php:288
+msgid "Hide my profile from directory"
+msgstr "Hide my profile from directory"
+
+#: includes/class-um-gallery-template.php:289
+#: release/1.0.5.1/includes/class-um-gallery-template.php:289
+#: release/1.0.5.2/includes/class-um-gallery-template.php:289
+#: release/svn/includes/class-um-gallery-template.php:289
+msgid "Here you can hide yourself from appearing in public directory"
+msgstr "Here you can hide yourself from appearing in public directory"
+
+#: includes/class-um-gallery-template.php:293
+#: includes/class-um-gallery-template.php:294 includes/um-gallery-admin.php:571
+#: includes/um-gallery-admin.php:583 includes/um-gallery-admin.php:725
+#: includes/um-gallery-admin.php:779 includes/um-gallery-admin.php:791
+#: includes/um-gallery-admin.php:802 includes/um-gallery-admin.php:820
+#: includes/um-gallery-admin.php:832
+#: release/1.0.5.1/includes/class-um-gallery-template.php:293
+#: release/1.0.5.1/includes/class-um-gallery-template.php:294
+#: release/1.0.5.1/includes/um-gallery-admin.php:571
+#: release/1.0.5.1/includes/um-gallery-admin.php:583
+#: release/1.0.5.1/includes/um-gallery-admin.php:725
+#: release/1.0.5.1/includes/um-gallery-admin.php:779
+#: release/1.0.5.1/includes/um-gallery-admin.php:791
+#: release/1.0.5.1/includes/um-gallery-admin.php:802
+#: release/1.0.5.1/includes/um-gallery-admin.php:820
+#: release/1.0.5.1/includes/um-gallery-admin.php:832
+#: release/1.0.5.2/includes/class-um-gallery-template.php:293
+#: release/1.0.5.2/includes/class-um-gallery-template.php:294
+#: release/1.0.5.2/includes/um-gallery-admin.php:571
+#: release/1.0.5.2/includes/um-gallery-admin.php:583
+#: release/1.0.5.2/includes/um-gallery-admin.php:725
+#: release/1.0.5.2/includes/um-gallery-admin.php:779
+#: release/1.0.5.2/includes/um-gallery-admin.php:791
+#: release/1.0.5.2/includes/um-gallery-admin.php:802
+#: release/1.0.5.2/includes/um-gallery-admin.php:820
+#: release/1.0.5.2/includes/um-gallery-admin.php:832
+#: release/svn/includes/class-um-gallery-template.php:293
+#: release/svn/includes/class-um-gallery-template.php:294
+#: release/svn/includes/um-gallery-admin.php:571
+#: release/svn/includes/um-gallery-admin.php:583
+#: release/svn/includes/um-gallery-admin.php:725
+#: release/svn/includes/um-gallery-admin.php:779
+#: release/svn/includes/um-gallery-admin.php:791
+#: release/svn/includes/um-gallery-admin.php:802
+#: release/svn/includes/um-gallery-admin.php:820
+#: release/svn/includes/um-gallery-admin.php:832
+msgid "No"
+msgstr "No"
+
+#: includes/um-gallery-admin-list.php:16
+#: release/1.0.5.1/includes/um-gallery-admin-list.php:16
+#: release/1.0.5.2/includes/um-gallery-admin-list.php:16
+#: release/svn/includes/um-gallery-admin-list.php:16
+msgid "Album"
+msgstr "Album"
+
+#: includes/um-gallery-admin-list.php:94
+#: release/1.0.5.1/includes/um-gallery-admin-list.php:94
+#: release/1.0.5.2/includes/um-gallery-admin-list.php:94
+#: release/svn/includes/um-gallery-admin-list.php:94
+msgid "No albums available."
+msgstr "No albums available."
+
+#: includes/um-gallery-admin-list.php:183
+#: release/1.0.5.1/includes/um-gallery-admin-list.php:183
+#: release/1.0.5.2/includes/um-gallery-admin-list.php:183
+#: release/svn/includes/um-gallery-admin-list.php:183
+msgid "Name"
+msgstr "Name"
+
+#: includes/um-gallery-admin-list.php:184
+#: release/1.0.5.1/includes/um-gallery-admin-list.php:184
+#: release/1.0.5.2/includes/um-gallery-admin-list.php:184
+#: release/svn/includes/um-gallery-admin-list.php:184
+msgid "Uploaded By"
+msgstr "Uploaded By"
+
+#: includes/um-gallery-admin-list.php:185
+#: release/1.0.5.1/includes/um-gallery-admin-list.php:185
+#: release/1.0.5.2/includes/um-gallery-admin-list.php:185
+#: release/svn/includes/um-gallery-admin-list.php:185
+msgid "Date"
+msgstr "Date"
+
+#: includes/um-gallery-admin.php:167
+#: release/1.0.5.1/includes/um-gallery-admin.php:167
+#: release/1.0.5.2/includes/um-gallery-admin.php:167
+#: release/svn/includes/um-gallery-admin.php:167
+msgid "Gallery Updated"
+msgstr "Gallery Updated"
+
+#: includes/um-gallery-admin.php:175
+#: release/1.0.5.1/includes/um-gallery-admin.php:175
+#: release/1.0.5.2/includes/um-gallery-admin.php:175
+#: release/svn/includes/um-gallery-admin.php:175
+msgid "Addons Updated"
+msgstr "Addons Updated"
+
+#: includes/um-gallery-admin.php:227 includes/um-gallery-ajax.php:249
+#: release/1.0.5.1/includes/um-gallery-admin.php:227
+#: release/1.0.5.1/includes/um-gallery-ajax.php:249
+#: release/1.0.5.2/includes/um-gallery-admin.php:227
+#: release/1.0.5.2/includes/um-gallery-ajax.php:249
+#: release/svn/includes/um-gallery-admin.php:227
+#: release/svn/includes/um-gallery-ajax.php:249
+msgid "Untitled Album"
+msgstr "Untitled Album"
+
+#: includes/um-gallery-admin.php:382 includes/um-gallery-admin.php:383
+#: release/1.0.5.1/includes/um-gallery-admin.php:382
+#: release/1.0.5.1/includes/um-gallery-admin.php:383
+#: release/1.0.5.2/includes/um-gallery-admin.php:382
+#: release/1.0.5.2/includes/um-gallery-admin.php:383
+#: release/svn/includes/um-gallery-admin.php:382
+#: release/svn/includes/um-gallery-admin.php:383
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/um-gallery-admin.php:491 includes/um-gallery-admin.php:518
+#: release/1.0.5.1/includes/um-gallery-admin.php:491
+#: release/1.0.5.1/includes/um-gallery-admin.php:518
+#: release/1.0.5.2/includes/um-gallery-admin.php:491
+#: release/1.0.5.2/includes/um-gallery-admin.php:518
+#: release/svn/includes/um-gallery-admin.php:491
+#: release/svn/includes/um-gallery-admin.php:518
+msgid "General"
+msgstr "General"
+
+#: includes/um-gallery-admin.php:492 includes/um-gallery-admin.php:520
+#: release/1.0.5.1/includes/um-gallery-admin.php:492
+#: release/1.0.5.1/includes/um-gallery-admin.php:520
+#: release/1.0.5.2/includes/um-gallery-admin.php:492
+#: release/1.0.5.2/includes/um-gallery-admin.php:520
+#: release/svn/includes/um-gallery-admin.php:492
+#: release/svn/includes/um-gallery-admin.php:520
+msgid "Labels"
+msgstr "Labels"
+
+#: includes/um-gallery-admin.php:493 includes/um-gallery-admin.php:521
+#: release/1.0.5.1/includes/um-gallery-admin.php:493
+#: release/1.0.5.1/includes/um-gallery-admin.php:521
+#: release/1.0.5.2/includes/um-gallery-admin.php:493
+#: release/1.0.5.2/includes/um-gallery-admin.php:521
+#: release/svn/includes/um-gallery-admin.php:493
+#: release/svn/includes/um-gallery-admin.php:521
+msgid "Addons"
+msgstr "Addons"
+
+#: includes/um-gallery-admin.php:519
+#: release/1.0.5.1/includes/um-gallery-admin.php:519
+#: release/1.0.5.2/includes/um-gallery-admin.php:519
+#: release/svn/includes/um-gallery-admin.php:519
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/um-gallery-admin.php:557
+#: release/1.0.5.1/includes/um-gallery-admin.php:557
+#: release/1.0.5.2/includes/um-gallery-admin.php:557
+#: release/svn/includes/um-gallery-admin.php:557
+msgid "Allowed User Roles"
+msgstr "Allowed User Roles"
+
+#: includes/um-gallery-admin.php:566
+#: release/1.0.5.1/includes/um-gallery-admin.php:566
+#: release/1.0.5.2/includes/um-gallery-admin.php:566
+#: release/svn/includes/um-gallery-admin.php:566
+msgid "Show on Main Tab"
+msgstr "Show on Main Tab"
+
+#: includes/um-gallery-admin.php:568
+#: release/1.0.5.1/includes/um-gallery-admin.php:568
+#: release/1.0.5.2/includes/um-gallery-admin.php:568
+#: release/svn/includes/um-gallery-admin.php:568
+msgid ""
+"If enabled, recent photo uploads will be placed on a user's profile main tab"
+msgstr ""
+"If enabled, recent photo uploads will be placed on a user's profile main tab"
+
+#: includes/um-gallery-admin.php:578
+#: release/1.0.5.1/includes/um-gallery-admin.php:578
+#: release/1.0.5.2/includes/um-gallery-admin.php:578
+#: release/svn/includes/um-gallery-admin.php:578
+msgid "Disable thumbnails"
+msgstr "Disable thumbnails"
+
+#: includes/um-gallery-admin.php:580
+#: release/1.0.5.1/includes/um-gallery-admin.php:580
+#: release/1.0.5.2/includes/um-gallery-admin.php:580
+#: release/svn/includes/um-gallery-admin.php:580
+msgid "Use full images instead of cropped thumbnails"
+msgstr "Use full images instead of cropped thumbnails"
+
+#: includes/um-gallery-admin.php:601
+#: release/1.0.5.1/includes/um-gallery-admin.php:601
+#: release/1.0.5.2/includes/um-gallery-admin.php:601
+#: release/svn/includes/um-gallery-admin.php:601
+msgid "Tab Name"
+msgstr "Tab Name"
+
+#: includes/um-gallery-admin.php:608
+#: release/1.0.5.1/includes/um-gallery-admin.php:608
+#: release/1.0.5.2/includes/um-gallery-admin.php:608
+#: release/svn/includes/um-gallery-admin.php:608
+msgid "Tab Slug"
+msgstr "Tab Slug"
+
+#: includes/um-gallery-admin.php:609
+#: release/1.0.5.1/includes/um-gallery-admin.php:609
+#: release/1.0.5.2/includes/um-gallery-admin.php:609
+#: release/svn/includes/um-gallery-admin.php:609
+msgid "Slug that displays in URL"
+msgstr "Slug that displays in URL"
+
+#: includes/um-gallery-admin.php:610
+#: release/1.0.5.1/includes/um-gallery-admin.php:610
+#: release/1.0.5.2/includes/um-gallery-admin.php:610
+#: release/svn/includes/um-gallery-admin.php:610
+msgid "gallery"
+msgstr "gallery"
+
+#: includes/um-gallery-admin.php:616
+#: release/1.0.5.1/includes/um-gallery-admin.php:616
+#: release/1.0.5.2/includes/um-gallery-admin.php:616
+#: release/svn/includes/um-gallery-admin.php:616
+msgid "Tab Icon"
+msgstr "Tab Icon"
+
+#: includes/um-gallery-admin.php:617
+#: release/1.0.5.1/includes/um-gallery-admin.php:617
+#: release/1.0.5.2/includes/um-gallery-admin.php:617
+#: release/svn/includes/um-gallery-admin.php:617
+msgid "Icon displayed in profile tab"
+msgstr "Icon displayed in profile tab"
+
+#: includes/um-gallery-admin.php:624
+#: release/1.0.5.1/includes/um-gallery-admin.php:624
+#: release/1.0.5.2/includes/um-gallery-admin.php:624
+#: release/svn/includes/um-gallery-admin.php:624
+msgid "Add Photo Button Text"
+msgstr "Add Photo Button Text"
+
+#: includes/um-gallery-admin.php:625
+#: release/1.0.5.1/includes/um-gallery-admin.php:625
+#: release/1.0.5.2/includes/um-gallery-admin.php:625
+#: release/svn/includes/um-gallery-admin.php:625
+msgid "Displays in single album mode"
+msgstr "Displays in single album mode"
+
+#: includes/um-gallery-admin.php:632
+#: release/1.0.5.1/includes/um-gallery-admin.php:632
+#: release/1.0.5.2/includes/um-gallery-admin.php:632
+#: release/svn/includes/um-gallery-admin.php:632
+msgid "Manage Album Title"
+msgstr "Manage Album Title"
+
+#: includes/um-gallery-admin.php:633
+#: release/1.0.5.1/includes/um-gallery-admin.php:633
+#: release/1.0.5.2/includes/um-gallery-admin.php:633
+#: release/svn/includes/um-gallery-admin.php:633
+msgid "Displays above modal popup"
+msgstr "Displays above modal popup"
+
+#: includes/um-gallery-admin.php:640 includes/um-gallery-admin.php:642
+#: release/1.0.5.1/includes/um-gallery-admin.php:640
+#: release/1.0.5.1/includes/um-gallery-admin.php:642
+#: release/1.0.5.1/templates/um-gallery/manage/album-form.php:30
+#: release/1.0.5.2/includes/um-gallery-admin.php:640
+#: release/1.0.5.2/includes/um-gallery-admin.php:642
+#: release/1.0.5.2/templates/um-gallery/manage/album-form.php:30
+#: release/svn/includes/um-gallery-admin.php:640
+#: release/svn/includes/um-gallery-admin.php:642
+#: release/svn/templates/um-gallery/manage/album-form.php:30
+#: templates/um-gallery/manage/album-form.php:30
+msgid "Add Photos"
+msgstr "Add Photos"
+
+#: includes/um-gallery-admin.php:641
+#: release/1.0.5.1/includes/um-gallery-admin.php:641
+#: release/1.0.5.2/includes/um-gallery-admin.php:641
+#: release/svn/includes/um-gallery-admin.php:641
+msgid "Photos Tab inside Modal Uploader"
+msgstr "Photos Tab inside Modal Uploader"
+
+#: includes/um-gallery-admin.php:648 includes/um-gallery-admin.php:650
+#: release/1.0.5.1/includes/um-gallery-admin.php:648
+#: release/1.0.5.1/includes/um-gallery-admin.php:650
+#: release/1.0.5.1/templates/um-gallery/manage/album-form.php:32
+#: release/1.0.5.2/includes/um-gallery-admin.php:648
+#: release/1.0.5.2/includes/um-gallery-admin.php:650
+#: release/1.0.5.2/templates/um-gallery/manage/album-form.php:32
+#: release/svn/includes/um-gallery-admin.php:648
+#: release/svn/includes/um-gallery-admin.php:650
+#: release/svn/templates/um-gallery/manage/album-form.php:32
+#: templates/um-gallery/manage/album-form.php:32
+msgid "Add Videos"
+msgstr "Add Videos"
+
+#: includes/um-gallery-admin.php:649
+#: release/1.0.5.1/includes/um-gallery-admin.php:649
+#: release/1.0.5.2/includes/um-gallery-admin.php:649
+#: release/svn/includes/um-gallery-admin.php:649
+msgid "Videos Tab inside Modal Uploader"
+msgstr "Videos Tab inside Modal Uploader"
+
+#: includes/um-gallery-admin.php:656
+#: release/1.0.5.1/includes/um-gallery-admin.php:656
+#: release/1.0.5.2/includes/um-gallery-admin.php:656
+#: release/svn/includes/um-gallery-admin.php:656
+msgid "Upload your photos placeholder"
+msgstr "Upload your photos placeholder"
+
+#: includes/um-gallery-admin.php:657
+#: release/1.0.5.1/includes/um-gallery-admin.php:657
+#: release/1.0.5.2/includes/um-gallery-admin.php:657
+#: release/svn/includes/um-gallery-admin.php:657
+msgid "Text inside modal photos upload screen"
+msgstr "Text inside modal photos upload screen"
+
+#: includes/um-gallery-admin.php:664
+#: release/1.0.5.1/includes/um-gallery-admin.php:664
+#: release/1.0.5.2/includes/um-gallery-admin.php:664
+#: release/svn/includes/um-gallery-admin.php:664
+msgid "Video URL Placeholder"
+msgstr "Video URL Placeholder"
+
+#: includes/um-gallery-admin.php:665
+#: release/1.0.5.1/includes/um-gallery-admin.php:665
+#: release/1.0.5.2/includes/um-gallery-admin.php:665
+#: release/svn/includes/um-gallery-admin.php:665
+msgid "Placeholder text inside of video uploader field"
+msgstr "Placeholder text inside of video uploader field"
+
+#: includes/um-gallery-admin.php:666
+#: release/1.0.5.1/includes/um-gallery-admin.php:666
+#: release/1.0.5.1/templates/um-gallery/manage/album-form.php:44
+#: release/1.0.5.2/includes/um-gallery-admin.php:666
+#: release/1.0.5.2/templates/um-gallery/manage/album-form.php:44
+#: release/svn/includes/um-gallery-admin.php:666
+#: release/svn/templates/um-gallery/manage/album-form.php:44
+#: templates/um-gallery/manage/album-form.php:44
+msgid "Video URL"
+msgstr "Video URL"
+
+#: includes/um-gallery-admin.php:672
+#: release/1.0.5.1/includes/um-gallery-admin.php:672
+#: release/1.0.5.2/includes/um-gallery-admin.php:672
+#: release/svn/includes/um-gallery-admin.php:672
+msgid "Add Video Button Text"
+msgstr "Add Video Button Text"
+
+#: includes/um-gallery-admin.php:673
+#: release/1.0.5.1/includes/um-gallery-admin.php:673
+#: release/1.0.5.2/includes/um-gallery-admin.php:673
+#: release/svn/includes/um-gallery-admin.php:673
+msgid "Text inside of video add button"
+msgstr "Text inside of video add button"
+
+#: includes/um-gallery-admin.php:674
+#: release/1.0.5.1/includes/um-gallery-admin.php:674
+#: release/1.0.5.1/templates/um-gallery/manage/album-form.php:45
+#: release/1.0.5.2/includes/um-gallery-admin.php:674
+#: release/1.0.5.2/templates/um-gallery/manage/album-form.php:45
+#: release/svn/includes/um-gallery-admin.php:674
+#: release/svn/templates/um-gallery/manage/album-form.php:45
+#: templates/um-gallery/manage/album-form.php:45
+msgid "Add Video"
+msgstr "Add Video"
+
+#: includes/um-gallery-admin.php:680
+#: release/1.0.5.1/includes/um-gallery-admin.php:680
+#: release/1.0.5.2/includes/um-gallery-admin.php:680
+#: release/svn/includes/um-gallery-admin.php:680
+msgid "Save Button"
+msgstr "Save Button"
+
+#: includes/um-gallery-admin.php:681
+#: release/1.0.5.1/includes/um-gallery-admin.php:681
+#: release/1.0.5.2/includes/um-gallery-admin.php:681
+#: release/svn/includes/um-gallery-admin.php:681
+msgid "Save button inside of modal photos uploader"
+msgstr "Save button inside of modal photos uploader"
+
+#: includes/um-gallery-admin.php:688
+#: release/1.0.5.1/includes/um-gallery-admin.php:688
+#: release/1.0.5.2/includes/um-gallery-admin.php:688
+#: release/svn/includes/um-gallery-admin.php:688
+msgid "Cancel Button"
+msgstr "Cancel Button"
+
+#: includes/um-gallery-admin.php:689
+#: release/1.0.5.1/includes/um-gallery-admin.php:689
+#: release/1.0.5.2/includes/um-gallery-admin.php:689
+#: release/svn/includes/um-gallery-admin.php:689
+msgid "Cancel button inside of modal photos uploader"
+msgstr "Cancel button inside of modal photos uploader"
+
+#: includes/um-gallery-admin.php:706
+#: release/1.0.5.1/includes/um-gallery-admin.php:706
+#: release/1.0.5.2/includes/um-gallery-admin.php:706
+#: release/svn/includes/um-gallery-admin.php:706
+msgid "Gallery Tab"
+msgstr "Gallery Tab"
+
+#: includes/um-gallery-admin.php:712
+#: release/1.0.5.1/includes/um-gallery-admin.php:712
+#: release/1.0.5.2/includes/um-gallery-admin.php:712
+#: release/svn/includes/um-gallery-admin.php:712
+msgid "Photos on profile"
+msgstr "Photos on profile"
+
+#: includes/um-gallery-admin.php:713
+#: release/1.0.5.1/includes/um-gallery-admin.php:713
+#: release/1.0.5.2/includes/um-gallery-admin.php:713
+#: release/svn/includes/um-gallery-admin.php:713
+msgid "Set the number of photos on profile"
+msgstr "Set the number of photos on profile"
+
+#: includes/um-gallery-admin.php:720
+#: release/1.0.5.1/includes/um-gallery-admin.php:720
+#: release/1.0.5.2/includes/um-gallery-admin.php:720
+#: release/svn/includes/um-gallery-admin.php:720
+msgid "Show Gallery Tab"
+msgstr "Show Gallery Tab"
+
+#: includes/um-gallery-admin.php:722
+#: release/1.0.5.1/includes/um-gallery-admin.php:722
+#: release/1.0.5.2/includes/um-gallery-admin.php:722
+#: release/svn/includes/um-gallery-admin.php:722
+msgid "If enabled, a gallery tab will be placed on a user's profile page"
+msgstr "If enabled, a gallery tab will be placed on a user's profile page"
+
+#: includes/um-gallery-admin.php:732
+#: release/1.0.5.1/includes/um-gallery-admin.php:732
+#: release/1.0.5.2/includes/um-gallery-admin.php:732
+#: release/svn/includes/um-gallery-admin.php:732
+msgid "Main/Profile Tab"
+msgstr "Main/Profile Tab"
+
+#: includes/um-gallery-admin.php:739
+#: release/1.0.5.1/includes/um-gallery-admin.php:739
+#: release/1.0.5.2/includes/um-gallery-admin.php:739
+#: release/svn/includes/um-gallery-admin.php:739
+msgid "Profile Layout Type"
+msgstr "Profile Layout Type"
+
+#: includes/um-gallery-admin.php:740
+#: release/1.0.5.1/includes/um-gallery-admin.php:740
+#: release/1.0.5.2/includes/um-gallery-admin.php:740
+#: release/svn/includes/um-gallery-admin.php:740
+msgid "Select the type of layout for gallery on gallery tab"
+msgstr "Select the type of layout for gallery on gallery tab"
+
+#: includes/um-gallery-admin.php:743
+#: release/1.0.5.1/includes/um-gallery-admin.php:743
+#: release/1.0.5.2/includes/um-gallery-admin.php:743
+#: release/svn/includes/um-gallery-admin.php:743
+msgid "Carousel"
+msgstr "Carousel"
+
+#: includes/um-gallery-admin.php:744
+#: release/1.0.5.1/includes/um-gallery-admin.php:744
+#: release/1.0.5.2/includes/um-gallery-admin.php:744
+#: release/svn/includes/um-gallery-admin.php:744
+msgid "Grid"
+msgstr "Grid"
+
+#: includes/um-gallery-admin.php:745
+#: release/1.0.5.1/includes/um-gallery-admin.php:745
+#: release/1.0.5.2/includes/um-gallery-admin.php:745
+#: release/svn/includes/um-gallery-admin.php:745
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: includes/um-gallery-admin.php:747
+#: release/1.0.5.1/includes/um-gallery-admin.php:747
+#: release/1.0.5.2/includes/um-gallery-admin.php:747
+#: release/svn/includes/um-gallery-admin.php:747
+msgid "Choose layout..."
+msgstr "Choose layout..."
+
+#: includes/um-gallery-admin.php:753
+#: release/1.0.5.1/includes/um-gallery-admin.php:753
+#: release/1.0.5.2/includes/um-gallery-admin.php:753
+#: release/svn/includes/um-gallery-admin.php:753
+msgid "Carousel/Slideshow settings"
+msgstr "Carousel/Slideshow settings"
+
+#: includes/um-gallery-admin.php:754
+#: release/1.0.5.1/includes/um-gallery-admin.php:754
+#: release/1.0.5.2/includes/um-gallery-admin.php:754
+#: release/svn/includes/um-gallery-admin.php:754
+msgid "Changed the settings used by the Carousel or Slideshow below."
+msgstr "Changed the settings used by the Carousel or Slideshow below."
+
+#: includes/um-gallery-admin.php:760
+#: release/1.0.5.1/includes/um-gallery-admin.php:760
+#: release/1.0.5.2/includes/um-gallery-admin.php:760
+#: release/svn/includes/um-gallery-admin.php:760
+msgid "Number of items in Carousel"
+msgstr "Number of items in Carousel"
+
+#: includes/um-gallery-admin.php:761
+#: release/1.0.5.1/includes/um-gallery-admin.php:761
+#: release/1.0.5.2/includes/um-gallery-admin.php:761
+#: release/svn/includes/um-gallery-admin.php:761
+msgid "Set the number of photos to display in Carousel"
+msgstr "Set the number of photos to display in Carousel"
+
+#: includes/um-gallery-admin.php:767
+#: release/1.0.5.1/includes/um-gallery-admin.php:767
+#: release/1.0.5.2/includes/um-gallery-admin.php:767
+#: release/svn/includes/um-gallery-admin.php:767
+msgid "Number of seconds for Autoplay"
+msgstr "Number of seconds for Autoplay"
+
+#: includes/um-gallery-admin.php:768
+#: release/1.0.5.1/includes/um-gallery-admin.php:768
+#: release/1.0.5.2/includes/um-gallery-admin.php:768
+#: release/svn/includes/um-gallery-admin.php:768
+msgid "Set the Slideshow/Carousel Autoplay in seconds"
+msgstr "Set the Slideshow/Carousel Autoplay in seconds"
+
+#: includes/um-gallery-admin.php:774
+#: release/1.0.5.1/includes/um-gallery-admin.php:774
+#: release/1.0.5.2/includes/um-gallery-admin.php:774
+#: release/svn/includes/um-gallery-admin.php:774
+msgid "AutoPlay Slideshow/Carousel"
+msgstr "AutoPlay Slideshow/Carousel"
+
+#: includes/um-gallery-admin.php:776
+#: release/1.0.5.1/includes/um-gallery-admin.php:776
+#: release/1.0.5.2/includes/um-gallery-admin.php:776
+#: release/svn/includes/um-gallery-admin.php:776
+msgid "If enabled, the gallery will auto play on a user's profile page"
+msgstr "If enabled, the gallery will auto play on a user's profile page"
+
+#: includes/um-gallery-admin.php:786
+#: release/1.0.5.1/includes/um-gallery-admin.php:786
+#: release/1.0.5.2/includes/um-gallery-admin.php:786
+#: release/svn/includes/um-gallery-admin.php:786
+msgid "Turn Pagination On"
+msgstr "Turn Pagination On"
+
+#: includes/um-gallery-admin.php:788
+#: release/1.0.5.1/includes/um-gallery-admin.php:788
+#: release/1.0.5.2/includes/um-gallery-admin.php:788
+#: release/svn/includes/um-gallery-admin.php:788
+msgid "Enable this to display Pagination"
+msgstr "Enable this to display Pagination"
+
+#: includes/um-gallery-admin.php:797
+#: release/1.0.5.1/includes/um-gallery-admin.php:797
+#: release/1.0.5.2/includes/um-gallery-admin.php:797
+#: release/svn/includes/um-gallery-admin.php:797
+msgid "Turn AutoHeight On"
+msgstr "Turn AutoHeight On"
+
+#: includes/um-gallery-admin.php:799
+#: release/1.0.5.1/includes/um-gallery-admin.php:799
+#: release/1.0.5.2/includes/um-gallery-admin.php:799
+#: release/svn/includes/um-gallery-admin.php:799
+msgid "Enable this to turn AutoHeight on"
+msgstr "Enable this to turn AutoHeight on"
+
+#: includes/um-gallery-admin.php:809
+#: release/1.0.5.1/includes/um-gallery-admin.php:809
+#: release/1.0.5.2/includes/um-gallery-admin.php:809
+#: release/svn/includes/um-gallery-admin.php:809
+msgid "Other"
+msgstr "Other"
+
+#: includes/um-gallery-admin.php:815
+#: release/1.0.5.1/includes/um-gallery-admin.php:815
+#: release/1.0.5.2/includes/um-gallery-admin.php:815
+#: release/svn/includes/um-gallery-admin.php:815
+msgid "Show full screen button"
+msgstr "Show full screen button"
+
+#: includes/um-gallery-admin.php:817
+#: release/1.0.5.1/includes/um-gallery-admin.php:817
+#: release/1.0.5.2/includes/um-gallery-admin.php:817
+#: release/svn/includes/um-gallery-admin.php:817
+msgid "Enable this to show the fullscreen button"
+msgstr "Enable this to show the fullscreen button"
+
+#: includes/um-gallery-admin.php:827
+#: release/1.0.5.1/includes/um-gallery-admin.php:827
+#: release/1.0.5.2/includes/um-gallery-admin.php:827
+#: release/svn/includes/um-gallery-admin.php:827
+msgid "Close Modal after update"
+msgstr "Close Modal after update"
+
+#: includes/um-gallery-admin.php:829
+#: release/1.0.5.1/includes/um-gallery-admin.php:829
+#: release/1.0.5.2/includes/um-gallery-admin.php:829
+#: release/svn/includes/um-gallery-admin.php:829
+msgid ""
+"Enable this to close modal after an album is updated or after files and "
+"videos have been added."
+msgstr ""
+"Enable this to close modal after an album is updated or after files and "
+"videos have been added."
+
+#: includes/um-gallery-admin.php:851
+#: release/1.0.5.1/includes/um-gallery-admin.php:851
+#: release/1.0.5.2/includes/um-gallery-admin.php:851
+#: release/svn/includes/um-gallery-admin.php:851
+msgid "Name (required)"
+msgstr "Name (required)"
+
+#: includes/um-gallery-admin.php:856
+#: release/1.0.5.1/includes/um-gallery-admin.php:856
+#: release/1.0.5.2/includes/um-gallery-admin.php:856
+#: release/svn/includes/um-gallery-admin.php:856
+msgctxt "UM Gallery Pro admin edit field"
+msgid "Description"
+msgstr "Description"
+
+#. translators: accessibility text
+#: includes/um-gallery-admin.php:860
+#: release/1.0.5.1/includes/um-gallery-admin.php:860
+#: release/1.0.5.2/includes/um-gallery-admin.php:860
+#: release/svn/includes/um-gallery-admin.php:860
+msgid "Add description"
+msgstr "Add description"
+
+#: includes/um-gallery-admin.php:875
+#: release/1.0.5.1/includes/um-gallery-admin.php:875
+#: release/1.0.5.2/includes/um-gallery-admin.php:875
+#: release/svn/includes/um-gallery-admin.php:875
+msgid "Add Images"
+msgstr "Add Images"
+
+#: includes/um-gallery-admin.php:908
+#: release/1.0.5.1/includes/um-gallery-admin.php:908
+#: release/1.0.5.2/includes/um-gallery-admin.php:908
+#: release/svn/includes/um-gallery-admin.php:908
+msgid "No media found"
+msgstr "No media found"
+
+#: includes/um-gallery-admin.php:920
+#: release/1.0.5.1/includes/um-gallery-admin.php:920
+#: release/1.0.5.2/includes/um-gallery-admin.php:920
+#: release/svn/includes/um-gallery-admin.php:920
+msgid "Actions"
+msgstr "Actions"
+
+#: includes/um-gallery-admin.php:923
+#: release/1.0.5.1/includes/um-gallery-admin.php:923
+#: release/1.0.5.2/includes/um-gallery-admin.php:923
+#: release/svn/includes/um-gallery-admin.php:923
+msgid "Owner"
+msgstr "Owner"
+
+#: includes/um-gallery-admin.php:932
+#: release/1.0.5.1/includes/um-gallery-admin.php:932
+#: release/1.0.5.2/includes/um-gallery-admin.php:932
+#: release/svn/includes/um-gallery-admin.php:932
+msgid "Save Album"
+msgstr "Save Album"
+
+#: includes/um-gallery-admin.php:965
+#: release/1.0.5.1/includes/um-gallery-admin.php:965
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:143
+#: release/1.0.5.2/includes/um-gallery-admin.php:965
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:143
+#: release/svn/includes/um-gallery-admin.php:965
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:143
+msgid "Settings updated."
+msgstr "Settings updated."
+
+#: includes/um-gallery-comments.php:219
+#: release/1.0.5.1/includes/um-gallery-comments.php:219
+#: release/1.0.5.2/includes/um-gallery-comments.php:219
+#: release/svn/includes/um-gallery-comments.php:219
+msgid "Error found, try again."
+msgstr "Error found, try again."
+
+#: includes/um-gallery-functions.php:312
+#: release/1.0.5.1/includes/um-gallery-functions.php:312
+#: release/1.0.5.2/includes/um-gallery-functions.php:312
+#: release/svn/includes/um-gallery-functions.php:312
+#, php-format
+msgid "%s photo"
+msgid_plural "%s photos"
+msgstr[0] "%s photo"
+msgstr[1] "%s photos"
+
+#: includes/widgets/class-widget-recent-photos.php:10
+#: release/1.0.5.1/includes/widgets/class-widget-recent-photos.php:10
+#: release/1.0.5.2/includes/widgets/class-widget-recent-photos.php:10
+#: release/svn/includes/widgets/class-widget-recent-photos.php:10
+msgid "Shows recent photo uploads"
+msgstr "Shows recent photo uploads"
+
+#: includes/widgets/class-widget-recent-photos.php:12
+#: release/1.0.5.1/includes/widgets/class-widget-recent-photos.php:12
+#: release/1.0.5.2/includes/widgets/class-widget-recent-photos.php:12
+#: release/svn/includes/widgets/class-widget-recent-photos.php:12
+msgid "UM Gallery: Recent Photos"
+msgstr "UM Gallery: Recent Photos"
+
+#: includes/widgets/class-widget-recent-photos.php:36
+#: release/1.0.5.1/includes/widgets/class-widget-recent-photos.php:36
+#: release/1.0.5.2/includes/widgets/class-widget-recent-photos.php:36
+#: release/svn/includes/widgets/class-widget-recent-photos.php:36
+msgid "Latest Photos"
+msgstr "Latest Photos"
+
+#: includes/widgets/class-widget-recent-photos.php:39
+#: release/1.0.5.1/includes/widgets/class-widget-recent-photos.php:39
+#: release/1.0.5.2/includes/widgets/class-widget-recent-photos.php:39
+#: release/svn/includes/widgets/class-widget-recent-photos.php:39
+msgid "Title:"
+msgstr "Title:"
+
+#: release/1.0.5.1/templates/um-gallery/albums.php:30
+#: release/1.0.5.2/templates/um-gallery/albums.php:30
+#: release/svn/templates/um-gallery/albums.php:30
+#: templates/um-gallery/albums.php:30
+msgid "No albums found"
+msgstr "No albums found"
+
+#: release/1.0.5.1/templates/um-gallery/extra/activity-album.php:1
+#: release/1.0.5.2/templates/um-gallery/extra/activity-album.php:1
+#: release/svn/templates/um-gallery/extra/activity-album.php:1
+#: templates/um-gallery/extra/activity-album.php:1
+msgid "just added a new album."
+msgstr "just added a new album."
+
+#: release/1.0.5.1/templates/um-gallery/manage/album-form.php:14
+#: release/1.0.5.1/templates/um-gallery/manage/album-form.php:20
+#: release/1.0.5.1/templates/um-gallery/manage/album-form.php:21
+#: release/1.0.5.2/templates/um-gallery/manage/album-form.php:14
+#: release/1.0.5.2/templates/um-gallery/manage/album-form.php:20
+#: release/1.0.5.2/templates/um-gallery/manage/album-form.php:21
+#: release/svn/templates/um-gallery/manage/album-form.php:14
+#: release/svn/templates/um-gallery/manage/album-form.php:20
+#: release/svn/templates/um-gallery/manage/album-form.php:21
+#: templates/um-gallery/manage/album-form.php:14
+#: templates/um-gallery/manage/album-form.php:20
+#: templates/um-gallery/manage/album-form.php:21
+msgid "Enter Album Name"
+msgstr "Enter Album Name"
+
+#: release/1.0.5.1/templates/um-gallery/manage/album-form.php:17
+#: release/1.0.5.2/templates/um-gallery/manage/album-form.php:17
+#: release/svn/templates/um-gallery/manage/album-form.php:17
+#: templates/um-gallery/manage/album-form.php:17
+msgid "About this album"
+msgstr "About this album"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:117
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:117
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:117
+msgid "Test Metabox"
+msgstr "Test Metabox"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:150
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:490
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:150
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:490
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:150
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:490
+msgid "Test Text"
+msgstr "Test Text"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:151
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:164
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:177
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:184
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:197
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:205
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:214
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:222
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:237
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:245
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:253
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:270
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:279
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:295
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:302
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:309
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:334
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:347
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:360
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:372
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:381
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:389
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:398
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:405
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:419
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:491
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:583
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:591
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:598
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:605
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:612
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:619
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:626
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:653
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:661
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:668
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:717
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:151
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:164
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:177
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:184
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:197
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:205
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:214
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:222
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:237
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:245
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:253
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:270
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:279
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:295
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:302
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:309
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:334
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:347
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:360
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:372
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:381
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:389
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:398
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:405
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:419
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:491
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:583
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:591
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:598
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:605
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:612
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:619
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:626
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:653
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:661
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:668
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:717
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:151
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:164
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:177
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:184
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:197
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:205
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:214
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:222
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:237
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:245
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:253
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:270
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:279
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:295
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:302
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:309
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:334
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:347
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:360
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:372
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:381
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:389
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:398
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:405
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:419
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:491
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:583
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:591
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:598
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:605
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:612
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:619
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:626
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:653
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:661
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:668
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:717
+msgid "field description (optional)"
+msgstr "field description (optional)"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:163
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:163
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:163
+msgid "Test Text Small"
+msgstr "Test Text Small"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:176
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:176
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:176
+msgid "Test Text Medium"
+msgstr "Test Text Medium"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:183
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:183
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:183
+msgid "Read-only Disabled Field"
+msgstr "Read-only Disabled Field"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:187
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:187
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:187
+msgid "Hey there, I'm a read-only field"
+msgstr "Hey there, I'm a read-only field"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:196
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:196
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:196
+msgid "Custom Rendered Field"
+msgstr "Custom Rendered Field"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:204
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:204
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:204
+msgid "Website URL"
+msgstr "Website URL"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:213
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:213
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:213
+msgid "Test Text Email"
+msgstr "Test Text Email"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:221
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:221
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:221
+msgid "Test Time"
+msgstr "Test Time"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:229
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:230
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:229
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:230
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:229
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:230
+msgid "Time zone"
+msgstr "Time zone"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:236
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:236
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:236
+msgid "Test Date Picker"
+msgstr "Test Date Picker"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:244
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:244
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:244
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr "Test Date Picker (UNIX timestamp)"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:252
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:252
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:252
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr "Test Date/Time Picker Combo (UNIX timestamp)"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:269
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:269
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:269
+msgid "Test Money"
+msgstr "Test Money"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:278
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:278
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:278
+msgid "Test Color Picker"
+msgstr "Test Color Picker"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:294
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:294
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:294
+msgid "Test Text Area"
+msgstr "Test Text Area"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:301
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:301
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:301
+msgid "Test Text Area Small"
+msgstr "Test Text Area Small"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:308
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:308
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:308
+msgid "Test Text Area for Code"
+msgstr "Test Text Area for Code"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:326
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:326
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:326
+msgid "Test Title Weeeee"
+msgstr "Test Title Weeeee"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:327
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:327
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:327
+msgid "This is a title description"
+msgstr "This is a title description"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:333
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:333
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:333
+msgid "Test Select"
+msgstr "Test Select"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:339
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:352
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:364
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:339
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:352
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:364
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:339
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:352
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:364
+msgid "Option One"
+msgstr "Option One"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:340
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:353
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:365
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:340
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:353
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:365
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:340
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:353
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:365
+msgid "Option Two"
+msgstr "Option Two"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:341
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:354
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:366
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:341
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:354
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:366
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:341
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:354
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:366
+msgid "Option Three"
+msgstr "Option Three"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:346
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:346
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:346
+msgid "Test Radio inline"
+msgstr "Test Radio inline"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:359
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:359
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:359
+msgid "Test Radio"
+msgstr "Test Radio"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:371
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:371
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:371
+msgid "Test Taxonomy Radio"
+msgstr "Test Taxonomy Radio"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:380
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:380
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:380
+msgid "Test Taxonomy Select"
+msgstr "Test Taxonomy Select"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:388
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:388
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:388
+msgid "Test Taxonomy Multi Checkbox"
+msgstr "Test Taxonomy Multi Checkbox"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:397
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:397
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:397
+msgid "Test Checkbox"
+msgstr "Test Checkbox"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:404
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:404
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:404
+msgid "Test Multi Checkbox"
+msgstr "Test Multi Checkbox"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:410
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:410
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:410
+msgid "Check One"
+msgstr "Check One"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:411
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:411
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:411
+msgid "Check Two"
+msgstr "Check Two"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:412
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:412
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:412
+msgid "Check Three"
+msgstr "Check Three"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:418
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:418
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:418
+msgid "Test wysiwyg"
+msgstr "Test wysiwyg"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:428
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:428
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:428
+msgid "Test Image"
+msgstr "Test Image"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:429
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:429
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:429
+msgid "Upload an image or enter a URL."
+msgstr "Upload an image or enter a URL."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:435
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:435
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:435
+msgid "Multiple Files"
+msgstr "Multiple Files"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:436
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:436
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:436
+msgid "Upload or add multiple images/attachments."
+msgstr "Upload or add multiple images/attachments."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:443
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:443
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:443
+msgid "oEmbed"
+msgstr "oEmbed"
+
+#. translators: %s: link to codex.wordpress.org/Embeds
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:446
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:446
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:446
+#, php-format
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:479
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:479
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:479
+msgid "About Page Metabox"
+msgstr "About Page Metabox"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:510
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:510
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:510
+msgid "Repeating Field Group"
+msgstr "Repeating Field Group"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:518
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:518
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:518
+msgid "Generates reusable form entries"
+msgstr "Generates reusable form entries"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:520
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:520
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:520
+msgid "Entry {#}"
+msgstr "Entry {#}"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:521
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:521
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:521
+msgid "Add Another Entry"
+msgstr "Add Another Entry"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:522
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:522
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:522
+msgid "Remove Entry"
+msgstr "Remove Entry"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:536
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:536
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:536
+msgid "Entry Title"
+msgstr "Entry Title"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:543
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:543
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:543
+msgid "Description"
+msgstr "Description"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:544
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:544
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:544
+msgid "Write a short description for this entry"
+msgstr "Write a short description for this entry"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:550
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:550
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:550
+msgid "Entry Image"
+msgstr "Entry Image"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:556
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:556
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:556
+msgid "Image Caption"
+msgstr "Image Caption"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:575
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:575
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:575
+msgid "User Profile Metabox"
+msgstr "User Profile Metabox"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:582
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:652
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:582
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:652
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:582
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:652
+msgid "Extra Info"
+msgstr "Extra Info"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:590
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:590
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:590
+msgid "Avatar"
+msgstr "Avatar"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:597
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:597
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:597
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:604
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:604
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:604
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:611
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:611
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:611
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:618
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:618
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:618
+msgid "Linkedin URL"
+msgstr "Linkedin URL"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:625
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:625
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:625
+msgid "User Field"
+msgstr "User Field"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:645
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:645
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:645
+msgid "Category Metabox"
+msgstr "Category Metabox"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:660
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:660
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:660
+msgid "Term Image"
+msgstr "Term Image"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:667
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:667
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:667
+msgid "Arbitrary Term Field"
+msgstr "Arbitrary Term Field"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:686
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:686
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:686
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:716
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:716
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:716
+msgid "Site Background Color"
+msgstr "Site Background Color"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:753
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:753
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:753
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr "%s &mdash; Updated!"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:787
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:787
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:787
+msgid "REST Test Box"
+msgstr "REST Test Box"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:796
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:796
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:796
+msgid "REST Test Text"
+msgstr "REST Test Text"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:797
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:797
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:797
+msgid "Will show in the REST API for this box and for pages."
+msgstr "Will show in the REST API for this box and for pages."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:803
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:803
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:803
+msgid "REST Editable Test Text"
+msgstr "REST Editable Test Text"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/example-functions.php:804
+#: release/1.0.5.2/vendor/cmb2/cmb2/example-functions.php:804
+#: release/svn/vendor/cmb2/cmb2/example-functions.php:804
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr "Will show in REST API \"editable\" contexts only (`POST` requests)."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2.php:199
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2.php:199
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2.php:199
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr "Metabox configuration is required to have an ID parameter."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2.php:603
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2.php:603
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2.php:603
+msgid "Click to toggle"
+msgstr "Click to toggle"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Ajax.php:75
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Ajax.php:75
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr "Please Try Again"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Ajax.php:181
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Ajax.php:181
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr "Remove Embed"
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Ajax.php:189
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/helper-functions.php:107
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Ajax.php:189
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/helper-functions.php:107
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Ajax.php:189
+#: release/svn/vendor/cmb2/cmb2/includes/helper-functions.php:107
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr "No oEmbed Results Found for %1$s. View more info at %2$s."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Base.php:422
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Base.php:422
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Base.php:422
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Base.php:426
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Base.php:426
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Base.php:456
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Base.php:456
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Base.php:456
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Base.php:458
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Base.php:458
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Base.php:458
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Base.php:491
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Hookup_Base.php:102
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Options.php:247
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:357
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/types/CMB2_Type_Base.php:173
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Base.php:491
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Hookup_Base.php:102
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Options.php:247
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:357
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/types/CMB2_Type_Base.php:173
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Base.php:491
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Hookup_Base.php:102
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Options.php:247
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:357
+#: release/svn/vendor/cmb2/cmb2/includes/types/CMB2_Type_Base.php:173
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr "Invalid %1$s property: %2$s"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Base.php:509
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/types/CMB2_Type_Base.php:157
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Base.php:509
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/types/CMB2_Type_Base.php:157
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Base.php:509
+#: release/svn/vendor/cmb2/cmb2/includes/types/CMB2_Type_Base.php:157
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr "Invalid %1$s method: %2$s"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Field.php:1415
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Field.php:1415
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Field.php:1415
+msgid "Add Group"
+msgstr "Add Group"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Field.php:1416
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Field.php:1416
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Field.php:1416
+msgid "Remove Group"
+msgstr "Remove Group"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Field.php:1448
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Field.php:1452
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Field.php:1448
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Field.php:1452
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Field.php:1448
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Field.php:1452
+msgid "None"
+msgstr "None"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Field.php:1563
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Field.php:1563
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Field.php:1563
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr "Sorry, this field does not have a cmb_id specified."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Field_Display.php:432
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:230
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:79
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Field_Display.php:432
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:230
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:79
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Field_Display.php:432
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:230
+#: release/svn/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:79
+msgid "File:"
+msgstr "File:"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Hookup_Base.php:44
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Hookup_Base.php:44
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Hookup_Base.php:44
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr "%1$s should be implemented by the extended class."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:165
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:210
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:165
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:210
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:165
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:210
+msgid "Clear"
+msgstr "Clear"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:166
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:166
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:166
+msgid "Default"
+msgstr "Default"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:167
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:167
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:167
+msgid "Select Color"
+msgstr "Select Color"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:168
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:168
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:168
+msgid "Current Color"
+msgstr "Current Color"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:200
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:200
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:200
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "mm/dd/yy"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:201
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:201
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:201
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:202
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:202
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:202
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Su, Mo, Tu, We, Th, Fr, Sa"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:203
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:203
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:203
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:204
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:204
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:204
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:205
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:205
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:205
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:206
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:206
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:206
+msgid "Next"
+msgstr "Next"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:207
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:207
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:207
+msgid "Prev"
+msgstr "Prev"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:208
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:208
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:208
+msgid "Today"
+msgstr "Today"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:209
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:219
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:209
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:219
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:209
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:219
+msgid "Done"
+msgstr "Done"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:213
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:213
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:213
+msgid "Choose Time"
+msgstr "Choose Time"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:214
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:214
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:214
+msgid "Time"
+msgstr "Time"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:215
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:215
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:215
+msgid "Hour"
+msgstr "Hour"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:216
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:216
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:216
+msgid "Minute"
+msgstr "Minute"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:217
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:217
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:217
+msgid "Second"
+msgstr "Second"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:218
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:218
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:218
+msgid "Now"
+msgstr "Now"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:220
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:220
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:220
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr "hh:mm TT"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:226
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:226
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:226
+msgid "Use this file"
+msgstr "Use this file"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:227
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:227
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:227
+msgid "Use these files"
+msgstr "Use these files"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:228
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:64
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:228
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:64
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:228
+#: release/svn/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:64
+msgid "Remove Image"
+msgstr "Remove Image"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:229
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Types.php:406
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:84
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:229
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Types.php:406
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:84
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:229
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Types.php:406
+#: release/svn/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:84
+msgid "Remove"
+msgstr "Remove"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:231
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:82
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:231
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:82
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:231
+#: release/svn/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:82
+msgid "Download"
+msgstr "Download"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_JS.php:232
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_JS.php:232
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_JS.php:232
+msgid "Select / Deselect All"
+msgstr "Select / Deselect All"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:139
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:139
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:139
+msgid "Nothing to update."
+msgstr "Nothing to update."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Types.php:226
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Types.php:226
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Types.php:226
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr "Custom CMB2 field type classes must extend CMB2_Type_Base."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Types.php:344
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Types.php:344
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr "Add Row"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_Types.php:406
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_Types.php:406
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_Types.php:406
+msgid "Remove Row"
+msgstr "Remove Row"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_hookup.php:182
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_hookup.php:182
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_hookup.php:182
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_hookup.php:186
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_hookup.php:186
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_hookup.php:186
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr "Term metaboxes configuration requires a \"taxonomies\" parameter."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/CMB2_hookup.php:466
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/CMB2_hookup.php:466
+#: release/svn/vendor/cmb2/cmb2/includes/CMB2_hookup.php:466
+#, php-format
+msgid "Toggle panel: %s"
+msgstr "Toggle panel: %s"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr "This box does not have read permissions."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr "This box does not have write permissions."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr "A human-readable description of the object."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr "The id for the object."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr "The title for the object."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr "Includes the registered fields for the box in the response."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr "No boxes found."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+"Includes the box object which the fields are registered to in the response."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr "No field found by that id."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#: release/svn/vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr "Value Error for %s"
+
+#. translators: %s: register_routes()
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:25
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:25
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr "Method '%s' must be overridden."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:35
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:47
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:59
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:71
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:83
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:95
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:107
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:119
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:131
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:143
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:155
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:168
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:35
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:47
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:59
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:71
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:83
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:95
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:107
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:119
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:131
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:143
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:155
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:168
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:35
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:47
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:59
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:71
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:83
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:95
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:107
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:119
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:131
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:143
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:155
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr "Method '%s' not implemented. Must be overridden in subclass."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:273
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:273
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr "Current page of the collection."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:281
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:281
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr "Maximum number of items to be returned in result set."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:290
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:290
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr "Limit results to those matching a string."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:308
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:308
+#: release/svn/vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+"Scope under which the request is made; determines fields present in response."
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/types/CMB2_Type_File.php:76
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/types/CMB2_Type_File.php:76
+#: release/svn/vendor/cmb2/cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr "Add or Upload File"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_List.php:41
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_List.php:41
+#: release/svn/vendor/cmb2/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr "Add or Upload Files"
+
+#: release/1.0.5.1/vendor/cmb2/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+#: release/1.0.5.2/vendor/cmb2/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+#: release/svn/vendor/cmb2/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr "No terms"
+
+#. Plugin Name of the plugin/theme
+msgid "User Gallery Lite for Ultimate Member"
+msgstr "User Gallery Lite for Ultimate Member"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://suiteplugins.com/"
+msgstr "https://suiteplugins.com/"
+
+#. Description of the plugin/theme
+msgid "Allow your user to upload photos from their Ultimate Member profile"
+msgstr "Allow your user to upload photos from their Ultimate Member profile"
+
+#. Author of the plugin/theme
+msgid "SuitePlugins"
+msgstr "SuitePlugins"
