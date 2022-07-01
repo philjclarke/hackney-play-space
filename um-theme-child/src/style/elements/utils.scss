@@ -1,0 +1,24 @@
+*{
+  -webkit-appearance:none;
+}
+
+#content{
+  border-bottom: 0;
+  border-bottom-style: none;
+
+  @screen sm{
+    border-bottom-style: dashed;
+  }
+  @screen md{
+    border-bottom-style: dotted;
+  }
+  @screen lg{
+    border-bottom-style: double;
+  }
+  @screen xl{
+    border-bottom-style: groove;
+  }
+  @screen xxl{
+    border-bottom-style: ridge;
+  }
+}

@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+
+@import "elements/utils";
+@import "elements/variables";
+@import "elements/fonts";
+@import "elements/typography";
+@import "elements/buttons";
+@import "elements/form";
+
+/*
+STRUCTURAL
+ */
+body{
+  z-index:0;
+
+  &.noscroll,
+  &.menu-open{
+    @apply overflow-auto;
+  }
+}
+
+
+
+
+// LAST THING
+@tailwind utilities;
