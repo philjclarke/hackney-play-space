@@ -7,6 +7,9 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 // Move CSS to its own file
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
+// Create and move HTML to dist
+const HtmlWebpackPlugin = require("html-webpack-plugin");
+
 const path = require("path");
 
 module.exports = {
@@ -74,6 +77,11 @@ module.exports = {
 
         new MiniCssExtractPlugin({
             filename: "css/main.css"
+        }),
+
+        new HtmlWebpackPlugin({
+            template: path.resolve(__dirname, "src", "index.html"),
+            minify: false
         }),
     ]
 };

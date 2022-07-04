@@ -1,4 +1,4 @@
-@tailwind base;
+// @tailwind base;
 @tailwind components;
 
 @import "elements/utils";
@@ -20,8 +20,71 @@ body{
   }
 }
 
+/*
+OVERRIDES
+ */
+.footer-sidebar-column-one {
+  .widget {
+    .wp-block-columns {
+      .wp-block-image {
+        img {
+          width: 100%;
+
+          @media screen and (max-width:782px) {
+            margin: 10px 0 10px 0;
+          }
+        }
+      }
+
+      .wp-block-column:nth-of-type(2) {
+        @media screen and (max-width:782px) {
+          .wp-block-columns {
+            gap: 0 !important;
+          }
+        }
+      }
+
+      .wp-block-column:last-of-type {
+        .wp-block-columns {
+          justify-content: flex-end !important;
+          gap: 0 !important;
+
+          .wp-block-column {
+            flex-grow: 0 !important;
+            flex-basis: revert !important;
+
+            .size-thumbnail {
+
+              a {
+                @apply block;
+                height: 50px;
+                width: 50px;
+              }
+            }
+          }
+
+          &:not(.is-not-stacked-on-mobile) {
+            @media screen and (max-width:700px)
+            {
+              justify-content: space-around !important;
+              & > .wp-block-column {
+                flex-basis: revert !important;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
 
 
+@media screen and (min-width:768px) {
+  .footer-sidebar-column-one {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
 
 // LAST THING
 @tailwind utilities;
